@@ -6,7 +6,7 @@
 
 ## . [bitfit](/bitfit/)
 
-This project was made so I can train my CSS/SCSS abilities, animation and design
+This project was created so I can train my CSS/SCSS abilities, like flexbox, animation and design
 
 ---
 
