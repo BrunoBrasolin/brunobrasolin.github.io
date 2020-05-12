@@ -39,3 +39,7 @@ Learned how to use Flexbox for positioning
 ### 5. [Alura - Advanced JavaScript I & II](/alura-js-avancado/)
 
 Learned Proxy, Data Bind, MVC, Ajax, Factory, how do handle date with security and etc.
+
+### 5. [Rocketseat - Semana OmniStack 11.0](/be-the-hero/)
+
+To be learned NodeJS, React and React Native
