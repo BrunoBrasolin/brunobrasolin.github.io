@@ -26,7 +26,7 @@ Simple project to write-up small and big things that I learn day to day in my ca
 
 Learned the basics of HTML and CSS
 
-### 2. [Alura - jQuery](/alura-js-jquery/)
+### 2. [Alura - jQuery](/alura-js-jquery/public/)
 
 Learned how to use jQuery
 
@@ -36,6 +36,6 @@ Learned how to use jQuery
 
 Learned how to use Flexbox for positioning
 
-### 5. [Alura - Advanced JavaScript I & II](/alura-js-avancado/)
+### 5. [Alura - Advanced JavaScript I & II](/alura-js-avancado/client/)
 
 Learned Proxy, Data Bind, MVC, Ajax, Factory, how do handle date with security and etc.
