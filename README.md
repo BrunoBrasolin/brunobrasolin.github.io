@@ -1,6 +1,6 @@
 # Welcome to my GitHub page
 
-## Here are some of my projects, hope you enjoy :smile:
+## Here are some of my projects, hope you enjoy
 
 ---
 
