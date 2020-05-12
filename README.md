@@ -22,7 +22,7 @@ Simple project to write-up small and big things that I learn day to day in my ca
 
 ## Here are some of my courses
 
-### 1. [Alura - HTML/CSS I, II, III, IV](/alura-html-css/)
+### 1. [Alura - HTML/CSS I, II, III & IV](/alura-html-css/)
 
 Learned the basics of HTML and CSS
 
