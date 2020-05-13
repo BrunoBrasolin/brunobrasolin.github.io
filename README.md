@@ -12,6 +12,8 @@ This project was created so I can train my CSS/SCSS abilities, like flexbox, ani
 
 ### . [npl](/npl/)
 
+My first ever project, here I learned the basics of web development
+
 ---
 
 ### . [today i learned](/til/)
