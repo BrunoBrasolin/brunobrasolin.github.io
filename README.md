@@ -1,47 +1,68 @@
-# Welcome to my GitHub page
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Here are some of my projects, hope you enjoy
+## Available Scripts
 
----
+In the project directory, you can run:
 
-### . [bitfit](/bitfit/)
+### `npm start`
 
-This project was created so I can train my CSS/SCSS abilities, like flexbox, animation and design
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
----
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-### . [npl](/npl/)
+### `npm test`
 
-My first ever project, here I learned the basics of web development
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-### . [today i learned](/til/)
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Simple project to write-up small and big things that I learn day to day in my career
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Here are some of my courses
+### `npm run eject`
 
-### 1. [Alura - HTML/CSS I, II, III & IV](/alura-html-css/)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Learned the basics of HTML and CSS
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### 2. [Alura - jQuery](/alura-js-jquery/public/)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Learned how to use jQuery
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### 3. [Alura - Laravel](/alura-laravel/)
+## Learn More
 
-### 4. [Alura - Flexbox](/alura-flexbox/)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Learned how to use Flexbox for positioning
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### 5. [Alura - Advanced JavaScript I & II](/alura-js-avancado/client/)
+### Code Splitting
 
-Learned Proxy, Data Bind, MVC, Ajax, Factory, how do handle date with security and etc.
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### 5. [Rocketseat - Semana OmniStack 11.0](/be-the-hero/)
+### Analyzing the Bundle Size
 
-To be learned NodeJS, React and React Native
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
