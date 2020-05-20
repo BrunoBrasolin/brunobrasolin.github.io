@@ -1,0 +1,39 @@
+section {
+  margin-top: 5%;
+}
+section h2 {
+  text-align: center;
+  font-weight: 300;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px dashed #c6c6c6;
+}
+
+section .about-me-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+section .about-me-container .personal-info {
+  margin: 2.5rem 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+section .about-me-container .skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section .about-me-container .skills ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+section .about-me-container .skills li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.25rem 0;
+}
