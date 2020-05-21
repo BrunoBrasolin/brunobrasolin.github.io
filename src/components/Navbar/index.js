@@ -7,11 +7,6 @@ export default function Navbar() {
     <nav>
       <ul>
         <li>
-          <a href="#experience" title="Experience">
-            Experience
-          </a>
-        </li>
-        <li>
           <a href="#projects" title="Projects">
             Projects
           </a>
@@ -19,6 +14,11 @@ export default function Navbar() {
         <li>
           <a href="#education" title="Education">
             Education
+          </a>
+        </li>
+        <li>
+          <a href="#experience" title="Experience">
+            Experience
           </a>
         </li>
       </ul>

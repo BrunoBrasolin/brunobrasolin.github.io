@@ -125,7 +125,7 @@ export default function Sidebar() {
       <FaUserCircle size={125} />
       <h1>Bruno Brasolin</h1>
       <p>Front end Developer</p>
-      <ul>
+      <ul className="links">
         <li>
           <a
             target="_blank"
@@ -133,7 +133,7 @@ export default function Sidebar() {
             href="https://github.com/BrunoBrasolin"
             title="Bruno Brasolin GitHub"
           >
-            <FaGithub size={32} color="#333" />
+            <FaGithub size={32} />
           </a>
         </li>
         <li>
@@ -143,7 +143,7 @@ export default function Sidebar() {
             href="https://www.linkedin.com/in/bruno-brasolin-15b066195/"
             title="Bruno Brasolin LinkedIn"
           >
-            <FaLinkedin size={32} color="#333" />
+            <FaLinkedin size={32} />
           </a>
         </li>
         <li>
@@ -153,11 +153,11 @@ export default function Sidebar() {
             href="https://pt.stackoverflow.com/users/190284/bruno-brasolin"
             title="Bruno Brasolin StackOverflow"
           >
-            <FaStackOverflow size={32} color="#333" />
+            <FaStackOverflow size={32} />
           </a>
         </li>
       </ul>
-      <div className="links">
+      <div className="contact">
         <p>
           Email:{" "}
           <a
@@ -186,16 +186,16 @@ export default function Sidebar() {
             <FaHtml5 size={45} /> {stars(5)}
           </li>
           <li>
-            <FaCss3 size={45} /> {stars(4.5)}
-          </li>
-          <li>
-            <FaSass size={45} /> {stars(4)}
-          </li>
-          <li>
             <FaWordpress size={45} /> {stars(3.5)}
           </li>
           <li>
-            <FaJs size={45} /> {stars(3.5)}
+            <FaCss3 size={45} /> {stars(3)}
+          </li>
+          <li>
+            <FaSass size={45} /> {stars(3)}
+          </li>
+          <li>
+            <FaJs size={45} /> {stars(2)}
           </li>
           <li>
             <FaReact size={45} /> {stars(1)}
