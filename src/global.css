@@ -10,7 +10,6 @@ body {
   font: 400 14px Roboto, sans-serif;
   background-color: #f0f0f5;
   -webkit-font-smoothing: antialiased;
-  padding: 60px;
 }
 
 input,
@@ -23,14 +22,39 @@ button {
   cursor: pointer;
 }
 
-h1{
-  font-size: 2.5rem;
+h1 {
+  font-size: 3.2rem;
 }
 
-h2{
-  font-size: 2rem;
+h2 {
+  font-size: 2.4rem;
 }
 
-h3{
-  font-size: 1.5rem;
+h3 {
+  font-size: 1.8rem;
+}
+
+h4 {
+  font-size: 1.6rem;
+}
+
+h5 {
+  font-size: 1.4rem;
+}
+
+h6 {
+  font-size: 1.2rem;
+}
+
+section {
+  margin: 5% auto 0 auto;
+  width: 65%;
+  float: right;
+}
+section h2 {
+  text-align: center;
+  font-weight: 300;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px dashed #c6c6c6;
+  margin-bottom: 2.5rem;
 }

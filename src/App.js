@@ -1,13 +1,15 @@
 import React from "react";
-import Header from "./pages/Header";
-import AboutMe from "./pages/AboutMe";
+import Navbar from "./components/Navbar";
+import Sidebar from "./components/Sidebar";
+import Experience from "./components/Experience";
 import "./global.css";
 
 export default function App() {
   return (
     <div className="App">
-      <Header />
-      <AboutMe />
+      <Navbar />
+      <Sidebar />
+      <Experience />
     </div>
   );
 }
