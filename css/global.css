@@ -61,12 +61,29 @@ b {
 section {
   width: 75%;
   float: right;
-  padding: 5%;
+  padding: 3%;
 }
 section h2 {
   text-align: center;
   font-weight: 300;
   padding-bottom: 0.5rem;
-  border-bottom: 2px dashed #c6c6c6;
+  /* border-bottom: 2px dashed #c6c6c6; */
   margin-bottom: 2.5rem;
+  position: relative;
+}
+
+section h2::after {
+  content: "";
+  position: absolute;
+  width: 75%;
+  height: 0.5rem;
+  bottom: -0.25rem;
+  left: 50%;
+  transform: translate(-50%) skew(45deg);
+  background-color: #202020;
+  transition: width 0.5s;
+}
+
+section:hover h2::after {
+  width: 50%;
 }
