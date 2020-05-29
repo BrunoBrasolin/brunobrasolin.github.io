@@ -14,20 +14,9 @@ aside {
   z-index: 1;
 }
 
-/* aside::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  right: 3%;
-  width: 100%;
-  height: 20px;
-  transform: skew(52deg);
-  background-color: #f0f0f5;
-  z-index: 2;
-} */
-
 aside > .info {
-  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-image: linear-gradient(transparent, #333),
+    url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
   /* background-image: url("https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"); */
   background-repeat: no-repeat;
   background-position: center;
@@ -137,6 +126,28 @@ aside > .content > .skills > ul > li {
   margin: 0.25rem 0;
   position: relative;
   cursor: default;
+  transition: transform 0.2s;
+  position: relative;
+}
+
+aside > .content > .skills > ul > li:hover {
+  transform: scale(1.2);
+}
+
+aside > .content > .skills > ul > li::before {
+  content: "";
+  border: 0px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  transition: width 0.2s;
+}
+
+aside > .content > .skills > ul > li:hover::before {
+  content: "";
+  width: 100%;
+  border: 1px solid #f0f0f5;
 }
 
 aside > .content > .skills > ul > li > .icon {
@@ -144,14 +155,32 @@ aside > .content > .skills > ul > li > .icon {
   font-size: 32px;
 }
 
-aside > .content > .skills > ul > li.javascript > .stars::after,
-aside > .content > .skills > ul > li.react > .stars::after,
-aside > .content > .skills > ul > li.python > .stars::after {
+aside > .content > .skills > ul > li.studiyng > .stars::after,
+aside > .content > .skills > ul > li.studiyng > .stars::after,
+aside > .content > .skills > ul > li.studiyng > .stars::after {
   content: "*";
   position: absolute;
   top: 0;
   right: 0;
   font-size: 0.7rem;
+}
+
+aside > .content > .skills > ul > li.studiyng > .stars::before,
+aside > .content > .skills > ul > li.studiyng > .stars::before,
+aside > .content > .skills > ul > li.studiyng > .stars::before {
+  content: "studying";
+  position: absolute;
+  top: 0;
+  right: -45px;
+  font-size: 0.7rem;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+aside > .content > .skills > ul > li.javascript:hover > .stars::before,
+aside > .content > .skills > ul > li.react:hover > .stars::before,
+aside > .content > .skills > ul > li.python:hover > .stars::before {
+  opacity: 1;
 }
 
 aside > .content > .skills > span {
@@ -187,14 +216,14 @@ nav ul li a {
 
 /* Projects */
 
-section#projects > div {
+section#projects > main > div {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
 }
 
-section#projects > div > .project {
+section#projects > main > div > .project {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -207,17 +236,17 @@ section#projects > div > .project {
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
-section#projects > div > .project:hover {
+section#projects > main > div > .project:hover {
   transform: scale(1.05);
   box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.8);
 }
 
-section#projects > div > .project > a {
+section#projects > main > div > .project > a {
   text-decoration: none;
   color: black;
 }
 
-section#projects > div > .project > a > .description {
+section#projects > main > div > .project > a > .description {
   display: flex;
   flex-direction: column;
   justify-content: center;
