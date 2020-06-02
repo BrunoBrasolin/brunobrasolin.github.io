@@ -246,6 +246,10 @@ section#projects > main > div > .project > a {
   color: black;
 }
 
+section#projects > main > div > .project > a > img:not(.active) {
+  display: none;
+}
+
 section#projects > main > div > .project > a > .description {
   display: flex;
   flex-direction: column;

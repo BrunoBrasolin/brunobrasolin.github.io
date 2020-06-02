@@ -1,3 +1,4 @@
+// Stars function
 function stars(score) {
   if (score === 0.5)
     return `
@@ -80,3 +81,4 @@ function stars(score) {
         <i class="fas fa-star"></i>
       `;
 }
+
