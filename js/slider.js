@@ -1,4 +1,0 @@
-// Projects slider
-
-function slider() {
-}

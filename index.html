@@ -1,10 +1,9 @@
 <!-- 
   TODO
-  NPL page screenshot,
   Be The Hero screenshot,
   Alura Laravel screenshot,
   Product Factory - choose,
-
+  NPL - paragraph overflow
 -->
 
 <!DOCTYPE html>
@@ -18,28 +17,10 @@
     <title>Bruno Brasolin</title>
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/global.css" />
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/sidebar.css" />
+    <link rel="stylesheet" href="css/projects.css" />
   </head>
   <body>
-    <!-- <nav>
-      <ul>
-        <li>
-          <a href="#projects" title="Projects">
-            Projects
-          </a>
-        </li>
-        <li>
-          <a href="#education" title="Education">
-            Education
-          </a>
-        </li>
-        <li>
-          <a href="#experience" title="Experience">
-            Experience
-          </a>
-        </li>
-      </ul>
-    </nav> -->
     <aside>
       <div class="info">
         <img src="img/profile.jpg" alt="Profile" title="Profile Photo" />
@@ -82,21 +63,13 @@
         <div class="contact">
           <p>
             Email:
-            <a
-              href="mailto:brunobrasolinc@gmail.com"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
+            <a href="mailto:brunobrasolinc@gmail.com" rel="noopener noreferrer" target="_blank">
               brunobrasolinc@gmail.com
             </a>
           </p>
           <p>
             Website:
-            <a
-              href="brunobrasolin.github.io"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
+            <a href="brunobrasolin.github.io" rel="noopener noreferrer" target="_blank">
               brunobrasolinc.github.io
             </a>
           </p>
@@ -104,39 +77,39 @@
         <div class="skills">
           <h3>Programming skills</h3>
           <ul>
-            <li class="html" title="HTML - 5 stars">
+            <li class="skill" id="html" title="HTML - 5 stars">
               <i class="fab fa-html5 icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="wordpress" title="Wordpress - 4 stars">
+            <li class="skill" id="wordpress" title="Wordpress - 4 stars">
               <i class="fab fa-wordpress icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="css" title="CSS - 3.5 stars">
+            <li class="skill" id="css" title="CSS - 3.5 stars">
               <i class="fab fa-css3 icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="sass" title="Sass - 3.5 stars">
+            <li class="skill" id="sass" title="Sass - 3.5 stars">
               <i class="fab fa-sass icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="bootstrap" title="Bootstrap - 3 stars">
+            <li class="skill" id="bootstrap" title="Bootstrap - 3 stars">
               <i class="fab fa-bootstrap icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="javascript studiyng" title="JavaScript - 3 stars">
+            <li class="skill studiyng" id="javascript" title="JavaScript - 3 stars">
               <i class="fab fa-js icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="php" title="PHP - 3 stars">
+            <li class="skill" id="php" title="PHP - 3 stars">
               <i class="fab fa-php icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="react studiyng" title="React - 1 stars">
+            <li class="skill studiyng" id="react" title="React - 1 stars">
               <i class="fab fa-react icon"></i>
               <div class="stars"></div>
             </li>
-            <li class="python studiyng" title="Python - 0.5 stars">
+            <li class="skill studiyng" id="python" title="Python - 0.5 stars">
               <i class="fab fa-python icon"></i>
               <div class="stars"></div>
             </li>
@@ -150,13 +123,8 @@
         <main>
           <h2>Projects</h2>
           <div>
-            <div class="project">
-              <a
-                href="http://www.cornelio.com.br/loja/"
-                title="Cornélio Auto Peças Site"
-                target="_blank"
-                onmouseover="slider();"
-              >
+            <div id="cornelio" class="project">
+              <a href="http://www.cornelio.com.br/loja/" title="Cornélio Auto Peças Site" target="_blank">
                 <img
                   class="active"
                   src="img/cornelio-1.png"
@@ -171,56 +139,49 @@
                 <div class="description">
                   <h3>Cornélio Auto Peças</h3>
                   <p>
-                    A <em>Ótima Ideia</em> project where I was responsible for
-                    the e-commerce page.
+                    A
+                    <em>Ótima Ideia</em>
+                    project where I was responsible for the e-commerce page.
                   </p>
                   <p>
-                    <b>Techs:</b> CSS, HTML, JavaScript, PHP, jQuery, Wordpress.
+                    <b>Techs:</b>
+                    <label class="techs" for="cornelio">CSS|HTML|JavaScript|PHP|jQuery|Wordpress</label>.
                   </p>
                 </div>
               </a>
             </div>
-            <div class="project">
-              <a
-                href="/til/"
-                title="Today I Learned"
-                target="_blank"
-              >
-                <img
-                  class="active"
-                  src="img/til.png"
-                  alt="Today I Learned"
-                  title="Today I Learned"
-                />
+            <div id="til" class="project">
+              <a href="/til/" title="Today I Learned" target="_blank">
+                <img class="active" src="img/til.png" alt="Today I Learned" title="Today I Learned" />
                 <div class="description">
                   <h3>Today I Learned</h3>
                   <p>
-                    Simple project to write-up small and big things that I learn
-                    day to day in my career.
+                    Simple project to write-up small and big things that I learn day to day in my career.
                   </p>
-                  <p><b>Techs:</b> Markdown.</p>
+                  <p>
+                    <b>Techs:</b>
+                    <label class="techs" for="til">Markdown</label>.
+                  </p>
                 </div>
               </a>
             </div>
-            <div class="project">
+            <div id="bitfit" class="project">
               <a href="/bitfit/" title="BitFit Site" target="_blank">
-                <img
-                  class="active"
-                  src="img/bitfit.png"
-                  alt="BitFit"
-                  title="BitFit"
-                />
+                <img class="active" src="img/bitfit.png" alt="BitFit" title="BitFit" />
                 <div class="description">
                   <h3>BitFit</h3>
                   <p>
-                    A simple project to learn more about CSS Animation,
-                    Positioning with Flexbox, Responsive Design and Sass.
+                    A simple project to learn more about CSS Animation, Positioning with Flexbox, Responsive
+                    Design and Sass.
                   </p>
-                  <p><b>Techs:</b> CSS, HTML, JavaScript, Sass.</p>
+                  <p>
+                    <b>Techs:</b>
+                    <label class="techs" for="bitfit">CSS|HTML|JavaScript|Sass</label>.
+                  </p>
                 </div>
               </a>
             </div>
-            <div class="project">
+            <div id="alura-flexbox" class="project">
               <a href="/alura-flexbox/" title="Alura Flexbox" target="_blank">
                 <img
                   class="active"
@@ -232,20 +193,19 @@
                 <div class="description">
                   <h3>Alurinha</h3>
                   <p>
-                    Project made in <em>Alura Flexbox</em> Course to learn how
-                    and why to use Flexbox for positioning and Responsive
-                    Design.
+                    Project made in
+                    <em>Alura Flexbox</em>
+                    Course to learn how and why to use Flexbox for positioning and Responsive Design.
                   </p>
-                  <p><b>Techs:</b> CSS, HTML.</p>
+                  <p>
+                    <b>Techs:</b>
+                    <label class="techs" for="alura-flexbox">CSS|HTML</label>.
+                  </p>
                 </div>
               </a>
             </div>
-            <div class="project">
-              <a
-                href="/alura-js-jquery/public/"
-                title="Alura jQuery"
-                target="_blank"
-              >
+            <div id="alura-jquery" class="project">
+              <a href="/alura-js-jquery/public/" title="Alura jQuery" target="_blank">
                 <img
                   class="active"
                   src="img/alura-js-jquery.png"
@@ -255,19 +215,19 @@
                 <div class="description">
                   <h3>Alura Typer</h3>
                   <p>
-                    Project made in <em>Alura JavaScript jQuery</em> Course to
-                    learn the jQuery library and some plugins.
+                    Project made in
+                    <em>Alura JavaScript jQuery</em>
+                    Course to learn the jQuery library and some plugins.
                   </p>
-                  <p><b>Techs:</b> CSS, HTML, JavaScript, jQuery.</p>
+                  <p>
+                    <b>Techs:</b>
+                    <label class="techs" for="alura-jquery">CSS|HTML|JavaScript|jQuery</label>.
+                  </p>
                 </div>
               </a>
             </div>
-            <div class="project">
-              <a
-                href="/alura-html-css/"
-                title="Alura HTML & CSS"
-                target="_blank"
-              >
+            <div id="alura-html-css" class="project">
+              <a href="/alura-html-css/" title="Alura HTML & CSS" target="_blank">
                 <img
                   class="active"
                   src="img/alura-html-css.png"
@@ -277,19 +237,19 @@
                 <div class="description">
                   <h3>Barbearia Alura</h3>
                   <p>
-                    Project made in <em>Alura HTML & CSS</em> Course to learn
-                    the basics of CSS and advanced HTML.
+                    Project made in
+                    <em>Alura HTML & CSS</em>
+                    Course to learn the basics of CSS and advanced HTML.
                   </p>
-                  <p><b>Techs:</b> CSS, HTML.</p>
+                  <p>
+                    <b>Techs:</b>
+                    <label class="techs" for="alura-html-css">CSS|HTML</label>.
+                  </p>
                 </div>
               </a>
             </div>
-            <div class="project">
-              <a
-                href="/alura-js-avancado/client/"
-                title="Alura - Advanced JavaScript"
-                target="_blank"
-              >
+            <div id="alura-js" class="project">
+              <a href="/alura-js-avancado/client/" title="Alura - Advanced JavaScript" target="_blank">
                 <img
                   class="active"
                   src="img/alura-js-avancado.png"
@@ -299,25 +259,30 @@
                 <div class="description">
                   <h3>Alura Frame</h3>
                   <p>
-                    Project made in <em>Alura Advanced JavaScript</em> crouse to
-                    learn advanced JS, MVC, Proxy and Factory.
+                    Project made in
+                    <em>Alura Advanced JavaScript</em>
+                    crouse to learn advanced JS, MVC, Proxy and Factory.
                   </p>
-                  <p><b>Techs:</b> CSS, HTML, JavaScript.</p>
+                  <p>
+                    <b>Techs:</b>
+                    <label class="techs" for="alura-js">CSS|HTML|JavaScript.</label>
+                  </p>
                 </div>
               </a>
             </div>
-            <div class="project">
+            <div id="npl" class="project">
               <a href="/npl/" title="NPL" target="_blank">
                 <img class="active" src="img/npl.png" alt="NPL" title="NPL" />
                 <div class="description">
                   <h3>NPL - National Prospects League</h3>
                   <p>
-                    My first ever project, made to learn the basics of PHP and
-                    MySQL and get better at other techs.
+                    My first ever project, made to learn the basics of PHP and MySQL and get better at other
+                    techs.
                   </p>
                   <p>
-                    <b>Techs:</b> Bootstrap, CSS, HTML, JavaScript, jQuery,
-                    MySQL, PHP, Sass.
+                    <b>Techs:</b>
+                    <label class="techs" for="npl">Bootstrap|CSS|HTML|JavaScript|jQuery|MySQL|PHP|Sass</label
+                    >.
                   </p>
                 </div>
               </a>
@@ -337,12 +302,7 @@
                   href="https://www.otimaideia.com.br/"
                   title="Otima Ideia Website"
                 >
-                  <img
-                    class="active"
-                    src="img/otimaideia.png"
-                    alt="Ótima Ideia logo"
-                    title="Ótima Ideia logo"
-                  />
+                  <img src="img/otimaideia.png" alt="Ótima Ideia logo" title="Ótima Ideia logo" />
                 </a>
               </h3>
               <h4>Front End Intern</h4>
@@ -351,8 +311,7 @@
             <div class="company-description">
               <em>Creating SEO Sites for Google</em>
               <p>
-                Responsible for creating SEO sites, performing maintenance and
-                answering tickets.
+                Responsible for creating SEO sites, performing maintenance and answering tickets.
               </p>
             </div>
           </div>
@@ -366,9 +325,8 @@
             <li>
               <h3>Alura Front End Training</h3>
               <p>
-                In this training, I learned advanced HTML, Flexbox, Grid and
-                Responsive Design in CSS, Sass, jQuery, MVC, Proxy and Factory
-                in JavaScript.
+                In this training, I learned advanced HTML, Flexbox, Grid and Responsive Design in CSS, Sass,
+                jQuery, MVC, Proxy and Factory in JavaScript.
               </p>
               <ul>
                 <h4>Projects</h4>
@@ -384,17 +342,16 @@
                   <a title="jQuery project" href="/alura-js-jquery/">jQuery</a>
                 </li>
                 <li>
-                  <a title="JavaScript project" href="/alura-js-avancado/"
-                    >JavaScript</a
-                  >
+                  <a title="JavaScript project" href="/alura-js-avancado/">
+                    JavaScript
+                  </a>
                 </li>
               </ul>
             </li>
             <li>
               <h3>Semana OmniStack 11.0</h3>
               <p>
-                In this course, learned the basics of Node.js, ReactJS e React
-                Native.
+                In this course, learned the basics of Node.js, ReactJS e React Native.
               </p>
               <a title="Be The Hero project" href="/be/the/hero">Be The Hero</a>
               <a title="Certified" href="#">Certified</a>
@@ -405,8 +362,7 @@
             </li>
             <li>
               <h3>
-                Java Foundations 2019 Aluno - Português (Java Foundations 2019
-                Learner - Portuguese)
+                Java Foundations 2019 Aluno - Português (Java Foundations 2019 Learner - Portuguese)
               </h3>
               <a title="Certified" href="#">Certified</a>
             </li>
@@ -422,19 +378,19 @@
         </main>
       </section>
     </main>
-    <script src="js/stars.js"></script>
+    <script type="text/javascript" src="js/stars.js"></script>
     <script>
-      document.querySelector(".html .stars").innerHTML = stars(5);
-      document.querySelector(".wordpress .stars").innerHTML = stars(4);
-      document.querySelector(".css .stars").innerHTML = stars(3.5);
-      document.querySelector(".sass .stars").innerHTML = stars(3.5);
-      document.querySelector(".bootstrap .stars").innerHTML = stars(3);
-      document.querySelector(".javascript .stars").innerHTML = stars(3);
-      document.querySelector(".php .stars").innerHTML = stars(3);
-      document.querySelector(".react .stars").innerHTML = stars(1);
-      document.querySelector(".python .stars").innerHTML = stars(0.5);
+      document.querySelector('#html > .stars').innerHTML = stars(5);
+      document.querySelector('#wordpress > .stars').innerHTML = stars(4);
+      document.querySelector('#css > .stars').innerHTML = stars(3.5);
+      document.querySelector('#sass > .stars').innerHTML = stars(3.5);
+      document.querySelector('#bootstrap > .stars').innerHTML = stars(3);
+      document.querySelector('#javascript > .stars').innerHTML = stars(3);
+      document.querySelector('#php > .stars').innerHTML = stars(3);
+      document.querySelector('#react > .stars').innerHTML = stars(1);
+      document.querySelector('#python > .stars').innerHTML = stars(0.5);
     </script>
-    <script src="js/slider.js"></script>
-    <script src="js/all.min.js"></script>
+    <script type="text/javascript" src="js/projects-filter.js"></script>
+    <script type="text/javascript" src="js/all.min.js"></script>
   </body>
 </html>

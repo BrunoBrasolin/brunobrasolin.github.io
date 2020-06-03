@@ -16,7 +16,7 @@ aside {
 
 aside > .info {
   background-image: linear-gradient(transparent, #333),
-    url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+    url('https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
   /* background-image: url("https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"); */
   background-repeat: no-repeat;
   background-position: center;
@@ -60,7 +60,7 @@ aside > .content > .links > li > a {
 }
 
 aside > .content > .links > li > a::before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -119,23 +119,23 @@ aside > .content > .skills > ul {
   flex-direction: column;
 }
 
-aside > .content > .skills > ul > li {
+aside > .content > .skills > ul > li.skill {
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0.25rem 0;
   position: relative;
-  cursor: default;
+  cursor: pointer;
   transition: transform 0.2s;
   position: relative;
 }
 
-aside > .content > .skills > ul > li:hover {
+aside > .content > .skills > ul > li.skill:hover {
   transform: scale(1.2);
 }
 
-aside > .content > .skills > ul > li::before {
-  content: "";
+aside > .content > .skills > ul > li.skill::before {
+  content: '';
   border: 0px;
   position: absolute;
   bottom: 0;
@@ -144,31 +144,31 @@ aside > .content > .skills > ul > li::before {
   transition: width 0.2s;
 }
 
-aside > .content > .skills > ul > li:hover::before {
-  content: "";
+aside > .content > .skills > ul > li.skill:hover::before {
+  content: '';
   width: 100%;
   border: 1px solid #f0f0f5;
 }
 
-aside > .content > .skills > ul > li > .icon {
+aside > .content > .skills > ul > li.skill > .icon {
   margin-right: 0.3rem;
   font-size: 32px;
 }
 
-aside > .content > .skills > ul > li.studiyng > .stars::after,
-aside > .content > .skills > ul > li.studiyng > .stars::after,
-aside > .content > .skills > ul > li.studiyng > .stars::after {
-  content: "*";
+aside > .content > .skills > ul > li.skill.studiyng > .stars::after,
+aside > .content > .skills > ul > li.skill.studiyng > .stars::after,
+aside > .content > .skills > ul > li.skill.studiyng > .stars::after {
+  content: '*';
   position: absolute;
   top: 0;
   right: 0;
   font-size: 0.7rem;
 }
 
-aside > .content > .skills > ul > li.studiyng > .stars::before,
-aside > .content > .skills > ul > li.studiyng > .stars::before,
-aside > .content > .skills > ul > li.studiyng > .stars::before {
-  content: "studying";
+aside > .content > .skills > ul > li.skill.studiyng > .stars::before,
+aside > .content > .skills > ul > li.skill.studiyng > .stars::before,
+aside > .content > .skills > ul > li.skill.studiyng > .stars::before {
+  content: 'studying';
   position: absolute;
   top: 0;
   right: -45px;
@@ -177,9 +177,9 @@ aside > .content > .skills > ul > li.studiyng > .stars::before {
   transition: opacity 0.2s;
 }
 
-aside > .content > .skills > ul > li.javascript:hover > .stars::before,
-aside > .content > .skills > ul > li.react:hover > .stars::before,
-aside > .content > .skills > ul > li.python:hover > .stars::before {
+aside > .content > .skills > ul > li.skill.javascript:hover > .stars::before,
+aside > .content > .skills > ul > li.skill.react:hover > .stars::before,
+aside > .content > .skills > ul > li.skill.python:hover > .stars::before {
   opacity: 1;
 }
 
@@ -188,72 +188,4 @@ aside > .content > .skills > span {
   text-align: end;
   font-size: 0.7rem;
   font-style: italic;
-}
-
-/* Navbar */
-nav {
-  position: fixed;
-  background-color: #333;
-  width: 75%;
-  right: 0;
-  padding: 1rem 0;
-  box-shadow: 0 10px 15px rgba(51, 51, 51, 0.5);
-  z-index: 1;
-}
-
-nav ul {
-  list-style-type: none;
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: space-around;
-}
-
-nav ul li a {
-  font-size: 1.2rem;
-  color: #f0f0f5;
-  text-decoration: none;
-}
-
-/* Projects */
-
-section#projects > main > div {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-around;
-}
-
-section#projects > main > div > .project {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 45%;
-  background-color: #fff;
-  overflow: hidden;
-  border-radius: 8px;
-  box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.36);
-  margin-bottom: 2.5%;
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-
-section#projects > main > div > .project:hover {
-  transform: scale(1.05);
-  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.8);
-}
-
-section#projects > main > div > .project > a {
-  text-decoration: none;
-  color: black;
-}
-
-section#projects > main > div > .project > a > img:not(.active) {
-  display: none;
-}
-
-section#projects > main > div > .project > a > .description {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
-  padding: 0.5rem 1rem;
 }
