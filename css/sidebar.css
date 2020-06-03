@@ -4,8 +4,9 @@ aside {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  width: 25%;
-  position: relative;
+  width: 24%;
+  position: fixed;
+  height: 100%;
   float: left;
   background-color: #333;
   color: #f0f0f5;
@@ -147,7 +148,7 @@ aside > .content > .skills > ul > li.skill::before {
 aside > .content > .skills > ul > li.skill:hover::before {
   content: '';
   width: 100%;
-  border: 1px solid #f0f0f5;
+  border: 1px solid #36f;
 }
 
 aside > .content > .skills > ul > li.skill > .icon {
@@ -160,6 +161,7 @@ aside > .content > .skills > ul > li.skill.studiyng > .stars::after,
 aside > .content > .skills > ul > li.skill.studiyng > .stars::after {
   content: '*';
   position: absolute;
+  color: #36f;
   top: 0;
   right: 0;
   font-size: 0.7rem;
@@ -177,15 +179,22 @@ aside > .content > .skills > ul > li.skill.studiyng > .stars::before {
   transition: opacity 0.2s;
 }
 
-aside > .content > .skills > ul > li.skill.javascript:hover > .stars::before,
-aside > .content > .skills > ul > li.skill.react:hover > .stars::before,
-aside > .content > .skills > ul > li.skill.python:hover > .stars::before {
+aside > .content > .skills > ul > li.skill#javascript:hover > .stars::before,
+aside > .content > .skills > ul > li.skill#react:hover > .stars::before,
+aside > .content > .skills > ul > li.skill#python:hover > .stars::before {
   opacity: 1;
 }
 
 aside > .content > .skills > span {
   width: 100%;
-  text-align: end;
   font-size: 0.7rem;
   font-style: italic;
+}
+
+aside > .content > .skills > span:last-child {
+  text-align: end;
+}
+
+aside > .content > .skills > span:last-child > span {
+  color: #36f;
 }

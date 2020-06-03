@@ -5,6 +5,7 @@
   box-sizing: border-box;
   outline: 0;
   font: 400 16px Roboto, sans-serif;
+  max-width: 100%;
 }
 
 body {
@@ -59,7 +60,7 @@ b {
 }
 
 section {
-  width: 75%;
+  width: 76%;
   float: right;
   padding: 1.5%;
 }
@@ -93,6 +94,7 @@ section main {
 }
 
 .fadeIn {
+  display: flex !important;
   animation: fadeIn 1s ease-in;
   max-height: 350px;
 }
@@ -104,6 +106,10 @@ section main {
   to {
     max-height: 350px;
   }
+}
+
+.selected {
+  color: #36f;
 }
 
 /*

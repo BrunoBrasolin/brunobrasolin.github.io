@@ -12,6 +12,9 @@ document.querySelectorAll('.skill').forEach(skill => {
           if (document.querySelector(`.project#${techHtml.getAttribute('for')}`).classList.contains('fadeIn'))
             document.querySelector(`.project#${techHtml.getAttribute('for')}`).classList.remove('fadeIn');
           document.querySelector(`.project#${techHtml.getAttribute('for')}`).classList.add('fadeOut');
+          setTimeout(function () {
+            document.querySelector(`.project#${techHtml.getAttribute('for')}`).style.display = 'none';
+          }, 1100);
         }
         skill.classList.add('selected');
       });
@@ -21,6 +24,7 @@ document.querySelectorAll('.skill').forEach(skill => {
         if (project.classList.contains('fadeOut')) {
           project.classList.remove('fadeOut');
           project.classList.add('fadeIn');
+          project.style.display = null;
         }
       });
     }
