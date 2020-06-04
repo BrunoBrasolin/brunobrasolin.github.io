@@ -27,11 +27,6 @@ aside > .info {
   padding: 1rem 0;
 }
 
-aside > .info > img {
-  border-radius: 50%;
-  width: 40%;
-}
-
 aside > .info > h2 {
   font-weight: 400;
 }
