@@ -1,0 +1,159 @@
+/* Navbar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 10rem;
+  background-color: #333;
+  color: #f0f0f5;
+  box-shadow: 0px 5px 10px 0px rgba(51, 51, 51, 1);
+  text-align: center;
+  z-index: 1;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+nav > .info {
+  /* background-image: linear-gradient(135deg, transparent, transparent, #333),
+    url('https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260'); */
+  background-image: linear-gradient(135deg, transparent, #333),
+    url('https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 1rem;
+  height: 100%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+nav > .info > h2 {
+  font-weight: 400;
+}
+
+nav > .content {
+  padding: 0 1rem 1rem 1rem;
+  width: 40%;
+}
+
+nav > .content > .links {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  margin: 1em 0;
+}
+
+nav > .content > .links > li > a {
+  margin: 0 0.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 50%;
+  padding: 0.7rem;
+  transition: background-color 0.5s;
+  position: relative;
+  color: #333;
+  transition: color 0.5s, transform 0.5s;
+  justify-content: center;
+}
+
+nav > .content > .links > li > a > .icon {
+  font-size: 32px;
+  color: #f0f0f5;
+  border-radius: 50%;
+}
+
+nav > .content > .contact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+nav > .content > .contact > p {
+  font-size: 1rem;
+}
+
+nav > .content > .contact > p > a {
+  text-decoration: none;
+  color: #f0f0f5;
+  font-weight: bold;
+}
+
+/* nav > .content > .skills {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav > .content > .skills > ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav > .content > .skills > ul > li.skill {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  margin: 0.25rem 0;
+  position: relative;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+nav > .content > .skills > ul > li.skill:hover {
+  transform: scale(1.2);
+}
+
+nav > .content > .skills > ul > li.skill::before {
+  content: '';
+  border: 0px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  transition: width 0.2s;
+}
+
+nav > .content > .skills > ul > li.skill:hover::before {
+  content: '';
+  width: 100%;
+  border-bottom: 2px solid #f0f0f5;
+}
+
+nav > .content > .skills > ul > li.skill > .icon {
+  font-size: 32px;
+}
+
+nav > .content > .skills > ul > li.skill.studiyng::after,
+nav > .content > .skills > ul > li.skill.studiyng::after,
+nav > .content > .skills > ul > li.skill.studiyng::after {
+  content: '*';
+  position: absolute;
+  color: #f0f0f5;
+  top: 0;
+  right: 0;
+  font-size: 0.7rem;
+}
+
+nav > .content > .skills > ul > li.skill.studiyng:hover::after,
+nav > .content > .skills > ul > li.skill.studiyng:hover::after,
+nav > .content > .skills > ul > li.skill.studiyng:hover::after {
+  content: '* studying';
+  color: #f0f0f5;
+  right: -45px;
+  opacity: 1;
+}
+
+nav > .content > .skills > span {
+  width: 100%;
+  font-size: 0.7rem;
+  font-style: italic;
+}
+
+nav > .content > .skills > span:last-child {
+  text-align: end;
+} */
