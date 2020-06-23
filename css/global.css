@@ -103,7 +103,7 @@ section:hover h2::before {
   height: 0.2rem;
 }
 
-section main {
+section .content {
   padding: 1.5%;
   position: relative;
 }

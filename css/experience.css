@@ -1,0 +1,25 @@
+/* Experience */
+
+section#experience > .content {
+  display: flex;
+}
+
+section#experience > .content > .company-info {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section#experience > .content > .company-info > .time {
+  margin-top: 1rem;
+}
+
+section#experience > .content > .company-info > .time:not(:last-child) {
+  border-bottom: 1px dashed red;
+  padding-bottom: 1rem;
+}
+
+section#experience > .content > .company-info > .time > h4 {
+  text-align: center;
+}
