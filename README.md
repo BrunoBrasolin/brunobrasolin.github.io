@@ -1,5 +1,3 @@
-# Bruno Brasolin
-
 ## Projetos pessoais
 
 ### [be-the-hero](https://github.com/BrunoBrasolin/be-the-hero)
