@@ -17,7 +17,7 @@ layout: home
 
 ### Ótima Ideia
 #### Desenvolvedor full stack
-- 07/2020 - 03/2021
+- _07/2020 - 03/2021_
 - Desenvolvimento de sites em WordPress
 - Desenvolvimento de sistemas em Laravel
 - Acompanhamento de estagiários
