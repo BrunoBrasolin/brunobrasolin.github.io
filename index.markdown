@@ -22,7 +22,7 @@ layout: home
 - Desenvolvimento de sistemas em Laravel
 - Acompanhamento de estagiários
 
-## Estágio de front-end
+#### Estágio de front-end
 - 04/2020 - 06/2020
 - Desenvolvimento de sites em WordPress
 
