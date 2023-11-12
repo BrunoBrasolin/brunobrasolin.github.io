@@ -16,8 +16,15 @@ layout: home
 - Estágio de front-end \| 04/2021 - 08/2021
 
 ### Ótima Ideia
-- Desenvolvedor full stack \| 07/2020 - 03/2021
-- Estágio de front-end \| 04/2020 - 06/2020
+#### Desenvolvedor full stack
+- 07/2020 - 03/2021
+- Desenvolvimento de sites em WordPress
+- Desenvolvimento de sistemas em Laravel
+- Acompanhamento de estagiários
+
+## Estágio de front-end
+- 04/2020 - 06/2020
+- Desenvolvimento de sites em WordPress
 
 ## Certificações
 - [AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/)
