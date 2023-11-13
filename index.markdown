@@ -5,9 +5,9 @@ layout: home
 ## Experiência
 
 ### T2S Tecnologia
-- Analista de Sistemas Pleno \| 07/2022 - Atual
-- Analista de Sistemas Júnior \| 12/2021 - 06/2022
-- Analista de Sistemas Trainee \| 08/2021 - 11/2021
+- Analista de Sistemas Pleno | 07/2022 - Atual
+- Analista de Sistemas Júnior | 12/2021 - 06/2022
+- Analista de Sistemas Trainee | 08/2021 - 11/2021
 
 #### Projetos
 
