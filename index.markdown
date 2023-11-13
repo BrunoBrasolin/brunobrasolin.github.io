@@ -5,13 +5,13 @@ layout: home
 ## Experiência
 
 ### T2S Tecnologia
-- Analista de Sistemas Pleno | 07/2022 - Atual
-- Analista de Sistemas Júnior | 12/2021 - 06/2022
-- Analista de Sistemas Trainee | 08/2021 - 11/2021
+- Analista de Sistemas Pleno \| 07/2022 - Atual
+- Analista de Sistemas Júnior \| 12/2021 - 06/2022
+- Analista de Sistemas Trainee \| 08/2021 - 11/2021
 
 #### Projetos
 
-- **BTP | Consultoria Técnica Especializada**
+- **BTP \| Consultoria Técnica Especializada**
   - _09/2022 - Atual_
   - Desenvolvimento de projetos
   - Análise de escopo para identificar requisitos técnicos e funcionais
@@ -19,22 +19,22 @@ layout: home
   - Liderança de um time com 2~4 analistas
   - Design arquitetônico de projetos
   - Tecnologias: .Net, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-- **BTP | Suporte**
+- **BTP \| Suporte**
   - _07/2022 - 09/2022_
   - Atendimento de chamados
   - Foco na resolução definitiva dos incidentes
   - Tecnologias: .Net, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-- **Santos Brasil | Armazém Alfandegado**
+- **Santos Brasil \| Armazém Alfandegado**
   - _04/2022 - 07/2022_
   - Desenvolvimento de um sistema para o aramzém
   - Liderança de um time com 3~4 analistas
   - Alinhamento de regras do sistema com o Key User
   - Tecnologias: .Net, Oracle Database, SQL Server, Visual Studio
-- **Santos Brasil | Integração ao Módulo Recintos**
+- **Santos Brasil \| Integração ao Módulo Recintos**
   - _10/2021 - 06/2022_
   - Integração com a [API Recintos](https://api-docs.portalunico.siscomex.gov.br/swagger/rcnt.html)
   - Tecnologias: .Net, Oracle Database, SQL Server, Visual Studio
-- **Santos Brasil | Suporte Sistemas**
+- **Santos Brasil \| Suporte Sistemas**
   - _02/2022 - 03/2022_
   - Atendimento de chamados de primeiro nível
   - Tecnologia: Oracle Database
