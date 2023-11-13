@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -12,8 +9,40 @@ layout: home
 - Analista de Sistemas Júnior \| 12/2021 - 06/2022
 - Analista de Sistemas Trainee \| 08/2021 - 11/2021
 
+#### Projetos
+
+- **BTP | Consultoria Técnica Especializada**
+  - _09/2022 - Atual_
+  - Desenvolvimento de projetos
+  - Análise de escopo para identificar requisitos técnicos e funcionais
+  - Definição de regra com Key Users
+  - Liderança de um time com 2~4 analistas
+  - Design arquitetônico de projetos
+  - Tecnologias: .Net, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
+- **BTP | Suporte**
+  - _07/2022 - 09/2022_
+  - Atendimento de chamados
+  - Foco na resolução definitiva dos incidentes
+  - Tecnologias: .Net, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
+- **Santos Brasil | Armazém Alfandegado**
+  - _04/2022 - 07/2022_
+  - Desenvolvimento de um sistema para o aramzém
+  - Liderança de um time com 3~4 analistas
+  - Alinhamento de regras do sistema com o Key User
+  - Tecnologias: .Net, Oracle Database, SQL Server, Visual Studio
+- **Santos Brasil | Integração ao Módulo Recintos**
+  - _10/2021 - 06/2022_
+  - Integração com a [API Recintos](https://api-docs.portalunico.siscomex.gov.br/swagger/rcnt.html)
+  - Tecnologias: .Net, Oracle Database, SQL Server, Visual Studio
+- **Santos Brasil | Suporte Sistemas**
+  - _02/2022 - 03/2022_
+  - Atendimento de chamados de primeiro nível
+  - Tecnologia: Oracle Database
+
 ### KBRTec
-- Estágio de front-end \| 04/2021 - 08/2021
+#### Estágio de front-end 
+- _04/2021 - 08/2021_
+- Manutenção de sites em WordPress
 
 ### Ótima Ideia
 #### Desenvolvedor full stack
