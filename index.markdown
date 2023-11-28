@@ -67,3 +67,9 @@
 
 ## Certificações
 - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) \| Setembro/23
+
+## Apresentações
+### Mudança de Regime: O papel da tecnologia para este processo
+- _Outubro/23_
+- Apresentação para o curso de _Comércio Exterior_ da Fatec de Praia Grande
+- Explicação sobre o processo de Mudança de Regime, com ênfase nos pontos em que a T2S, por meio da tecnologia da informação, desempenhou um papel crucial na melhoria da operação do cliente.
