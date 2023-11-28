@@ -62,6 +62,7 @@
 ### Fatec Praia Grande
 - _01/2019 - 12/2021_
 - Análise e Desenvolvimento de Sistemas
+- Curso Tecnólogo
 
 ## Certificações
 - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) \| Setembro/23
