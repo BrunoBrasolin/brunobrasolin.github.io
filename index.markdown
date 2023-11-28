@@ -5,6 +5,7 @@ title-heading: false
 # Bruno Brasolin Carravieri
 - **E-mail:** brunobrasolinc@gmail.com
 - **LinkedIn:** [linkedin.com/in/bruno-brasolin](https://www.linkedin.com/in/bruno-brasolin/)
+- **GitHub:** [BrunoBrasolin](https://github.com/brunoBrasolin)
 
 ## Experiência
 
