@@ -1,6 +1,6 @@
----
-layout: home
----
+# Bruno Brasolin Carravieri
+- **E-mail:** brunobrasolinc@gmail.com
+- **LinkedIn:** [linkedin.com/in/bruno-brasolin](https://www.linkedin.com/in/bruno-brasolin/)
 
 ## Experiência
 
@@ -58,8 +58,8 @@ layout: home
 ## Formação
 
 ### Fatec Praia Grande
-#### Análise e Desenvolvimento de Sistemas
 - _01/2019 - 12/2021_
+- Análise e Desenvolvimento de Sistemas
 
 ## Certificações
-- [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) | Setembro/23
+- [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/), Setembro/23
