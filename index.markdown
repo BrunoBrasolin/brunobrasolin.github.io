@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Bruno Brasolin Carravieri
 - **E-mail:** brunobrasolinc@gmail.com
 - **LinkedIn:** [linkedin.com/in/bruno-brasolin](https://www.linkedin.com/in/bruno-brasolin/)
@@ -52,7 +56,7 @@
 - Acompanhamento de estagiários
 
 #### Estágio de Front-End
-- 04/2020 - 06/2020
+- _04/2020 - 06/2020_
 - Desenvolvimento de sites em WordPress
 
 ## Formação
@@ -62,4 +66,4 @@
 - Análise e Desenvolvimento de Sistemas
 
 ## Certificações
-- [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/), Setembro/23
+- [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) \| Setembro/23
