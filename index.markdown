@@ -1,5 +1,6 @@
 # Bruno Brasolin Carravieri
 - **E-mail:** brunobrasolinc@gmail.com
+- **Celular:** (13) 996706-150
 - **LinkedIn:** [linkedin.com/in/bruno-brasolin](https://www.linkedin.com/in/bruno-brasolin/)
 - **GitHub:** [github.com/BrunoBrasolin](https://github.com/BrunoBrasolin)
 - **Site:** [brunobrasolin.github.io](https://brunobrasolin.github.io/)
