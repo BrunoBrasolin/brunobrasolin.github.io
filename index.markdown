@@ -40,20 +40,26 @@ layout: home
   - Tecnologia: Oracle Database
 
 ### KBRTec
-#### Estágio de front-end 
+#### Estágio de Front-End 
 - _04/2021 - 08/2021_
 - Manutenção de sites em WordPress
 
 ### Ótima Ideia
-#### Desenvolvedor full stack
+#### Desenvolvedor Full-Stack
 - _07/2020 - 03/2021_
 - Desenvolvimento de sites em WordPress
 - Desenvolvimento de sistemas em Laravel
 - Acompanhamento de estagiários
 
-#### Estágio de front-end
+#### Estágio de Front-End
 - 04/2020 - 06/2020
 - Desenvolvimento de sites em WordPress
 
+## Formação
+
+### Fatec Praia Grande
+#### Análise e Desenvolvimento de Sistemas
+- _01/2019 - 12/2021_
+
 ## Certificações
-- [AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/)
+- [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) | Setembro/23
