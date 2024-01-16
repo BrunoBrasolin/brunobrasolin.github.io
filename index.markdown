@@ -7,8 +7,11 @@
 
 ## Experiência
 
+### Brasil Terminal Portuário
+- Analista de Sistemas Pleno \| 01/2024 - Atual
+
 ### T2S Tecnologia
-- Analista de Sistemas Pleno \| 07/2022 - Atual
+- Analista de Sistemas Pleno \| 07/2022 - 01/2024
 - Analista de Sistemas Júnior \| 12/2021 - 06/2022
 - Analista de Sistemas Trainee \| 08/2021 - 11/2021
 
