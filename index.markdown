@@ -22,7 +22,7 @@
   - Arquitetura orientada à overengineering 
   - Tecnologias: .Net, Angular, GitHub, SonarCloud, RabbitMQ, nginx, registro.br, Docker, Docker Hub, Oracle Cloud Infraestructure, Python, Flask, LangChain, LangSmith, Module Federation
 - **BTP \| Consultoria Técnica Especializada**
-  - _09/2022 - Atual_
+  - _09/2022 - 01/2024_
   - Desenvolvimento de projetos
   - Análise de escopo para identificar requisitos técnicos e funcionais
   - Definição de regra com Key Users
