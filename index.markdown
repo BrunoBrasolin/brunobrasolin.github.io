@@ -9,17 +9,28 @@
 ### Brasil Terminal Portuário
 - Analista de Sistemas Pleno \| 01/2024 - Atual
 
+#### Projetos
+- **Novo Site Institucional**
+  - _11/2024 - 04/2025_
+  - Responsável pela coordenação dos fornecedores e equipes terceirizadas envolvidas no projeto
+  - Acompanhamento das estratégias de conteúdo em conjunto com os times de marketing e comunicação
+  - Preparação e configuração do ambiente em nuvem utilizando Azure
+  - Implementação de monitoramento e análise de comportamento dos usuários
+  - Realização de revisões durante a fase de testes e suporte pós-go live para garantir estabilidade e qualidade da entrega
+  - Tecnologias: Next.js + SSR
+- **Portal Único - Portal do Cliente**
+  - _06/2024 - 12/2024_
+  - Integração de um sistema legado em .NET MVC com um front-end moderno em Angular utilizando estratégia de embedded
+  - Padronização e unificação do layout entre os sistemas
+  - Implementação de melhorias de usabilidade focadas na experiência do usuário
+  - Tecnologias: .Net, Angular, JavaScript
+
 ### T2S Tecnologia
 - Analista de Sistemas Pleno \| 07/2022 - 01/2024
 - Analista de Sistemas Júnior \| 12/2021 - 06/2022
 - Analista de Sistemas Trainee \| 08/2021 - 11/2021
 
 #### Projetos
-
-- **Pessoal \| Gamidas**
-  - Ambiente para desenvolvimento de projetos pessoais
-  - Arquitetura orientada à overengineering 
-  - Tecnologias: .Net, Angular, GitHub, SonarCloud, RabbitMQ, nginx, registro.br, Docker, Docker Hub, Oracle Cloud Infraestructure, Python, Flask, LangChain, LangSmith, Module Federation
 - **BTP \| Consultoria Técnica Especializada**
   - _09/2022 - 01/2024_
   - Desenvolvimento de projetos
@@ -63,6 +74,12 @@
 #### Estágio de Front-End
 - _04/2020 - 06/2020_
 - Desenvolvimento de sites em WordPress
+
+### Pessoal
+#### Gamidas
+- Ambiente para desenvolvimento de projetos pessoais
+- Arquitetura orientada à _overengineering_ 
+- Tecnologias: .Net, Angular, GitHub, SonarCloud, RabbitMQ, nginx, registro.br, Docker, Docker Hub, Oracle Cloud Infraestructure, Python, Flask, LangChain, LangSmith, Module Federation
 
 ## Formação
 
