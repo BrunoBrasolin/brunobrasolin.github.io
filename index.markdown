@@ -23,7 +23,9 @@
   - Integração de um sistema legado em .NET MVC com um front-end moderno em Angular utilizando estratégia de embedded
   - Padronização e unificação do layout entre os sistemas
   - Implementação de melhorias de usabilidade focadas na experiência do usuário
-  - Tecnologias: .Net, Angular, JavaScript
+  - Condução de mais de 10 workshops com clientes para levantamento de necessidades e validação de soluções
+  - Execução de testes de estresse e carga para garantir desempenho e estabilidade da aplicação
+  - Tecnologias: .Net, Angular, JavaScript, JMeter
 
 ### T2S Tecnologia
 - Analista de Sistemas Pleno \| 07/2022 - 01/2024
