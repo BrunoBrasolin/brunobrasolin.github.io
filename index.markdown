@@ -7,7 +7,8 @@
 ## Experiência
 
 ### Brasil Terminal Portuário
-- Analista de Sistemas Pleno \| 01/2024 - Atual
+- Analista de Sistemas Sênior \| 04/2024 - Atual
+- Analista de Sistemas Pleno \| 01/2024 - 03/2025
 
 #### Projetos
 - **Novo Site Institucional**
@@ -84,6 +85,10 @@
 - Tecnologias: .Net, Angular, GitHub, SonarCloud, RabbitMQ, nginx, registro.br, Docker, Docker Hub, Oracle Cloud Infraestructure, Python, Flask, LangChain, LangSmith, Module Federation
 
 ## Formação
+
+### FIAP
+- _09/2024 - 09/2025_
+- MBA em Engenharia de Software
 
 ### Fatec Praia Grande
 - _01/2019 - 12/2021_
