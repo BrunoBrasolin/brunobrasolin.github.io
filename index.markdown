@@ -7,21 +7,21 @@
 ## Experiência
 
 ### Brasil Terminal Portuário
-- Analista de Sistemas Sênior \| 04/2024 - Atual
+- Analista de Sistemas Sênior \| 04/2025 - Atual
 - Analista de Sistemas Pleno \| 01/2024 - 03/2025
 
 #### Projetos
 - **Novo Site Institucional**
   - _11/2024 - 04/2025_
-  - Responsável pela coordenação dos fornecedores e equipes terceirizadas envolvidas no projeto
+  - Responsável pela coordenação dos fornecedores envolvidos no projeto
   - Acompanhamento das estratégias de conteúdo em conjunto com os times de marketing e comunicação
   - Preparação e configuração do ambiente em nuvem utilizando Azure
-  - Implementação de monitoramento e análise de comportamento dos usuários
+  - Implementação de monitoramento e análise de comportamento dos usuários utilizando Clarity
   - Realização de revisões durante a fase de testes e suporte pós-go live para garantir estabilidade e qualidade da entrega
   - Tecnologias: Next.js + SSR
 - **Portal Único - Portal do Cliente**
   - _06/2024 - 12/2024_
-  - Integração de um sistema legado em .NET MVC com um front-end moderno em Angular utilizando estratégia de embedded
+  - Integração de um sistema legado em .NET MVC com um front-end em Angular utilizando estratégia de embedded
   - Padronização e unificação do layout entre os sistemas
   - Implementação de melhorias de usabilidade focadas na experiência do usuário
   - Condução de mais de 10 workshops com clientes para levantamento de necessidades e validação de soluções
