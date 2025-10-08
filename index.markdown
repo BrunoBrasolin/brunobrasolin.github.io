@@ -6,11 +6,27 @@
 
 ## Experiência
 
+### Gamidas DevHouse
+- CEO \| 08/2025 - Atual
+
+### Megazap Business
+- Engenheiro de Software \| 08/2025 - Atual
+
 ### Brasil Terminal Portuário
-- Analista de Sistemas Sênior \| 04/2025 - Atual
+- Analista de Sistemas Sênior \| 04/2025 - 08/2025
 - Analista de Sistemas Pleno \| 01/2024 - 03/2025
 
 #### Projetos
+
+- **Design System Corporativo**  
+  - _03/2025 - 04/2025_  
+  - Criação de um **design system** em formato de **pacote Node** para uso em múltiplos projetos Angular, permitindo instalação simplificada via `npm install`  
+  - Hospedagem e versionamento do pacote utilizando **Azure Artifacts**  
+  - Desenvolvimento de **componentes reutilizáveis e pré-estilizados** (botões, tabelas, menus, modais, entre outros) com foco em consistência visual e produtividade no desenvolvimento  
+  - Criação de um site de documentação com **Storybook**, contendo exemplos de utilização e casos de uso para cada componente  
+  - Implementação de documentação técnica e exemplos de uso para facilitar a adoção do pacote em novos projetos  
+  - Definição de padrões de design e arquitetura front-end, promovendo padronização e manutenção simplificada em todo o ecossistema Angular da empresa  
+  - Tecnologias: **Angular, Node.js, Azure Artifacts, Storybook, TypeScript, SCSS**
 - **Novo Site Institucional**
   - _11/2024 - 04/2025_
   - Responsável pela coordenação dos fornecedores envolvidos no projeto
