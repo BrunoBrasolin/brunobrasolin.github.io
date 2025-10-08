@@ -44,7 +44,7 @@
   - Condução de mais de 10 workshops com clientes para levantamento de necessidades e validação de soluções
   - Execução de testes de estresse e carga para garantir desempenho e estabilidade da aplicação
   - Tecnologias: .Net, Angular, JavaScript, JMeter
-- **Assistente SAP — Consulta txt-to-SQL**
+- **Assistente SAP**
   - _xx/2024 - xx/2024_
   - Chatbot que converte linguagem natural em SQL e executa consultas no SAP via celular
   - Uso de RAG (Retrieval-Augmented Generation) para combinar busca semântica com geração de respostas precisas
