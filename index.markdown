@@ -12,6 +12,19 @@
 ### Megazap Business
 - Engenheiro de Software \| 08/2025 - Atual
 
+#### Projetos
+
+- **Jadi**  
+  - _03/2025 - 04/2025_  
+  - Criação de um **design system** em formato de **pacote Node** para uso em múltiplos projetos Angular, permitindo instalação simplificada via `npm install`  
+  - Hospedagem e versionamento do pacote utilizando **Azure Artifacts**  
+  - Desenvolvimento de **componentes reutilizáveis e pré-estilizados** (botões, tabelas, menus, modais, entre outros) com foco em consistência visual e produtividade no desenvolvimento  
+  - Criação de um site de documentação com **Storybook**, contendo exemplos de utilização e casos de uso para cada componente  
+  - Implementação de documentação técnica e exemplos de uso para facilitar a adoção do pacote em novos projetos  
+  - Definição de padrões de design e arquitetura front-end, promovendo padronização e manutenção simplificada em todo o ecossistema Angular da empresa  
+  - Tecnologias: **Angular, Node.js, Azure Artifacts, Storybook, TypeScript, SCSS**
+
+
 ### Brasil Terminal Portuário
 - Analista de Sistemas Sênior \| 04/2025 - 08/2025
 - Analista de Sistemas Pleno \| 01/2024 - 03/2025
@@ -19,7 +32,7 @@
 #### Projetos
 
 - **Design System Corporativo**  
-  - _03/2025 - 04/2025_  
+  - _03/2025 - 04/2025_
   - Criação de um **design system** em formato de **pacote Node** para uso em múltiplos projetos Angular, permitindo instalação simplificada via `npm install`  
   - Hospedagem e versionamento do pacote utilizando **Azure Artifacts**  
   - Desenvolvimento de **componentes reutilizáveis e pré-estilizados** (botões, tabelas, menus, modais, entre outros) com foco em consistência visual e produtividade no desenvolvimento  
@@ -43,6 +56,20 @@
   - Condução de mais de 10 workshops com clientes para levantamento de necessidades e validação de soluções
   - Execução de testes de estresse e carga para garantir desempenho e estabilidade da aplicação
   - Tecnologias: .Net, Angular, JavaScript, JMeter
+- **Assistente SAP — Consulta txt-to-SQL**
+  - _xx/2024 - xx/2024_
+  - Chatbot que converte linguagem natural em SQL e executa consultas no SAP via celular
+  - Uso de RAG (Retrieval-Augmented Generation) para combinar busca semântica com geração de respostas precisas
+  - Integração com modelos Microsoft (ChatGPT) para criação, refinamento e validação de consultas
+  - Histórico de conversas persistido em Elasticsearch para auditoria e contexto contínuo
+  - Documentação técnica no Confluence com busca semântica via Qdrant para possíveis dúvidas dos usuários sobre procedimento
+  - Observação de fluxos reais e coleta de feedback em visitas técnicas
+  - Entrevistas, testes de usabilidade e logs para priorização de intents e melhorias em UX/IA
+  - Arquitetura NLP/IR utilizando Python com FastAPI, LangChain e LlamaIndex
+  - Frontend Angular + TypeScript com foco em produtividade (assistente, histórico, feedback e visualização de resultados)
+  - CI/CD via GitOps; APIs expostas via Microsoft APIM
+  - **Tecnologias:** Python, FastAPI, Angular, TypeScript, LangChain, LlamaIndex, RAG, Elasticsearch, Qdrant, Confluence, Microsoft APIM, ChatGPT Microsoft, GitOps
+
 
 ### T2S Tecnologia
 - Analista de Sistemas Pleno \| 07/2022 - 01/2024
