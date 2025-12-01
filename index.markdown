@@ -6,6 +6,12 @@
 
 ## Experiência
 
+### Gamidas DevHouse
+- CEO \| 08/2025 - Atual
+
+### Megazap Business
+- Engenheiro de Software \| 08/2025 - Atual
+
 ### Brasil Terminal Portuário
 - Analista de Sistemas Sênior \| 04/2025 - 08/2025
 - Analista de Sistemas Pleno \| 01/2024 - 03/2025
