@@ -119,6 +119,7 @@
 ### FIAP
 - _09/2024 - 09/2025_
 - MBA em Engenharia de Software
+- Top 30 de +120 startups no Startup One
 
 ### Fatec Praia Grande
 - _01/2019 - 12/2021_
