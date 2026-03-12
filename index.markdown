@@ -119,7 +119,7 @@
 ### FIAP
 - _09/2024 - 09/2025_
 - MBA em Engenharia de Software
-- Top 30 de +120 startups no Startup One
+- Top 10 de +120 startups no Startup One
 
 ### Fatec Praia Grande
 - _01/2019 - 12/2021_
@@ -130,6 +130,11 @@
 - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) \| Setembro/23
 
 ## Apresentações
+### Startup One: Find Motors
+- Fevereiro/26_
+- Apresentação final para o Startup One
+- [Link](https://drive.google.com/file/d/1L9Ff_cw_5Oc84KnsF0tDRzK9r39VE_8Y/view?usp=drive_link)
+
 ### Mudança de Regime: O papel da tecnologia para este processo
 - _Outubro/23_
 - Apresentação para o curso de _Comércio Exterior_ da Fatec de Praia Grande
