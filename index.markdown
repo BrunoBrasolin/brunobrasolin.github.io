@@ -131,7 +131,7 @@
 
 ## Apresentações
 ### Startup One: Find Motors
-- Fevereiro/26_
+- _Fevereiro/26_
 - Apresentação final para o Startup One
 - [Link](https://drive.google.com/file/d/1L9Ff_cw_5Oc84KnsF0tDRzK9r39VE_8Y/view?usp=drive_link)
 
