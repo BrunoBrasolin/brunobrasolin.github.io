@@ -6,9 +6,6 @@
 
 ## Experiência
 
-### Gamidas DevHouse
-- CEO \| 08/2025 - Atual
-
 ### Megazap Business
 - Analista de Sistemas Sênior \| 08/2025 - Atual
 
