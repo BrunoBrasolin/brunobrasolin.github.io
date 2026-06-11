@@ -10,7 +10,7 @@
 - CEO \| 08/2025 - Atual
 
 ### Megazap Business
-- Engenheiro de Software \| 08/2025 - Atual
+- Analista de Sistemas Sênior \| 08/2025 - Atual
 
 ### Brasil Terminal Portuário
 - Analista de Sistemas Sênior \| 04/2025 - 08/2025
