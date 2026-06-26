@@ -1,5 +1,5 @@
 # Bruno Brasolin Carravieri
-- **E-mail:** brunobrasolinc@gmail.com
+- **E-mail:** [brunobrasolinc@gmail.com](mailto:brunobrasolinc@gmail.com)
 - **LinkedIn:** [linkedin.com/in/bruno-brasolin](https://www.linkedin.com/in/bruno-brasolin/)
 - **GitHub:** [github.com/BrunoBrasolin](https://github.com/BrunoBrasolin)
 - **Site:** [brunobrasolin.github.io](https://brunobrasolin.github.io/)
@@ -14,7 +14,6 @@
 - Analista de Sistemas Pleno \| 01/2024 - 03/2025
 
 #### Projetos
-
 - **Design System Corporativo**  
   - _03/2025 - 04/2025_
   - Criação de um **design system** em formato de **pacote Node** para uso em múltiplos projetos Angular, permitindo instalação simplificada via `npm install`  
@@ -53,7 +52,6 @@
   - Frontend Angular + TypeScript com foco em produtividade (assistente, histórico, feedback e visualização de resultados)
   - CI/CD via GitOps; APIs expostas via Microsoft APIM
   - **Tecnologias:** Python, FastAPI, Angular, TypeScript, LangChain, LlamaIndex, RAG, Elasticsearch, Qdrant, Confluence, Microsoft APIM, ChatGPT Microsoft, GitOps
-
 
 ### T2S Tecnologia
 - Analista de Sistemas Pleno \| 07/2022 - 01/2024
