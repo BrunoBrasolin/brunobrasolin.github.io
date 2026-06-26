@@ -121,7 +121,7 @@
 - Associate Degree in Technology
 
 ## Certifications
-- AZ-400: Designing and Implementing Microsoft DevOps Solutions | September/23
+- AZ-400: Designing and Implementing Microsoft DevOps Solutions \| September/23
 
 ## Presentations
 ### Startup One: Find Motors
