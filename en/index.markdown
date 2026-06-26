@@ -22,7 +22,7 @@
   - Created a documentation website using **Storybook**, including usage examples and use cases for each component
   - Implemented technical documentation and usage examples to facilitate package adoption in new projects
   - Defined front-end design and architecture standards, promoting standardization and simplified maintenance across the company's Angular ecosystem
-  - Technologies: **Angular, Node.js, Azure Artifacts, Storybook, TypeScript, SCSS**
+  - Technologies: Angular, Node.js, Azure Artifacts, Storybook, TypeScript, SCSS
 - **New Corporate Website**
   - *11/2024 - 04/2025*
   - Responsible for coordinating the vendors involved in the project
