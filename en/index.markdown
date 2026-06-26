@@ -7,15 +7,15 @@
 ## Experience
 
 ### Megazap Business
-- Senior Systems Analyst | 08/2025 - Present
+- Senior Systems Analyst \| 08/2025 - Present
 
 ### Brasil Terminal Portuário
-- Senior Systems Analyst | 04/2025 - 08/2025
-- Mid-Level Systems Analyst | 01/2024 - 03/2025
+- Senior Systems Analyst \| 04/2025 - 08/2025
+- Mid-Level Systems Analyst \| 01/2024 - 03/2025
 
 #### Projects
 - **Corporate Design System**
-  - *03/2025 - 04/2025*
+  - _03/2025 - 04/2025_
   - Created a **design system** as a **Node package** for use across multiple Angular projects, enabling simplified installation via `npm install`
   - Hosted and versioned the package using **Azure Artifacts**
   - Developed **reusable, pre-styled components** (buttons, tables, menus, modals, among others) focused on visual consistency and development productivity
