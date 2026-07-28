@@ -67,7 +67,7 @@
   - Led a team of 2–4 analysts
   - Designed project architecture
   - Technologies: .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-- **BTP \| Support**
+- **BTP \| Systems Support**
   - _07/2022 - 09/2022_
   - Handled support tickets
   - Focused on permanent incident resolution
