@@ -24,7 +24,7 @@
   - Defined front-end design and architecture standards, promoting standardization and simplified maintenance across the company's Angular ecosystem
   - Technologies: Angular, Node.js, Azure Artifacts, Storybook, TypeScript, SCSS
 - **New Corporate Website**
-  - *11/2024 - 04/2025*
+  - _11/2024 - 04/2025_
   - Responsible for coordinating the vendors involved in the project
   - Collaborated with the marketing and communications teams on content strategy
   - Prepared and configured the cloud environment using Azure
@@ -32,7 +32,7 @@
   - Conducted reviews during the testing phase and provided post-go-live support to ensure delivery stability and quality
   - Technologies: Next.js + SSR
 - **Single Portal - Customer Portal**
-  - *06/2024 - 12/2024*
+  - _06/2024 - 12/2024_
   - Integrated a legacy .NET MVC system with an Angular front end using an embedded strategy
   - Standardized and unified the layout across systems
   - Implemented usability improvements focused on user experience
@@ -40,7 +40,7 @@
   - Performed stress and load testing to ensure application performance and stability
   - Technologies: .NET, Angular, JavaScript, JMeter
 - **SAP Assistant**
-  - *xx/2024 - xx/2024*
+  - _xx/2024 - xx/2024_
   - Chatbot that converts natural language into SQL and executes SAP queries via mobile devices
   - Used RAG (Retrieval-Augmented Generation) to combine semantic search with accurate response generation
   - Integrated Microsoft models (ChatGPT) for query creation, refinement, and validation
@@ -60,7 +60,7 @@
 
 #### Projects
 - **BTP \| Specialized Technical Consulting**
-  - *09/2022 - 01/2024*
+  - _09/2022 - 01/2024_
   - Project development
   - Scope analysis to identify technical and functional requirements
   - Defined business rules with Key Users
@@ -68,39 +68,39 @@
   - Designed project architecture
   - Technologies: .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
 - **BTP \| Support**
-  - *07/2022 - 09/2022*
+  - _07/2022 - 09/2022_
   - Handled support tickets
   - Focused on permanent incident resolution
   - Technologies: .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
 - **Santos Brasil \| Bonded Warehouse**
-  - *04/2022 - 07/2022*
+  - _04/2022 - 07/2022_
   - Developed a warehouse management system
   - Led a team of 3–4 analysts
   - Aligned system business rules with the Key User
   - Technologies: .NET, Oracle Database, SQL Server, Visual Studio
 - **Santos Brasil \| Customs Facilities Module Integration**
-  - *10/2021 - 06/2022*
+  - _10/2021 - 06/2022_
   - Integration with the Recintos API
   - Technologies: .NET, Oracle Database, SQL Server, Visual Studio
 - **Santos Brasil \| Systems Support**
-  - *02/2022 - 03/2022*
+  - _02/2022 - 03/2022_
   - Provided first-level support
   - Technology: Oracle Database
 
 ### KBRTec
 #### Front-End Intern
-- *04/2021 - 08/2021*
+- _04/2021 - 08/2021_
 - Maintained WordPress websites
 
 ### Ótima Ideia
 #### Full-Stack Developer
-- *07/2020 - 03/2021*
+- _07/2020 - 03/2021_
 - Developed WordPress websites
 - Developed Laravel systems
 - Mentored interns
 
 #### Front-End Intern
-- *04/2020 - 06/2020*
+- _04/2020 - 06/2020_
 - Developed WordPress websites
 
 ### Personal
@@ -110,13 +110,14 @@
 - Technologies: .NET, Angular, GitHub, SonarCloud, RabbitMQ, nginx, registro.br, Docker, Docker Hub, Oracle Cloud Infrastructure, Python, Flask, LangChain, LangSmith, Module Federation
 
 ## Education
+
 ### FIAP
-- *09/2024 - 09/2025*
+- _09/2024 - 09/2025_
 - MBA in Software Engineering
 - Top 10 out of 120+ startups in Startup One
 
 ### Fatec Praia Grande
-- *01/2019 - 12/2021*
+- _01/2019 - 12/2021_
 - Systems Analysis and Development
 - Associate Degree in Technology
 
@@ -125,11 +126,11 @@
 
 ## Presentations
 ### Startup One: Find Motors
-- *February/26*
+- _February/26_
 - Final presentation for Startup One
-- Link
+- [Link](https://drive.google.com/file/d/1L9Ff_cw_5Oc84KnsF0tDRzK9r39VE_8Y/view?usp=drive_link)
 
 ### Regime Change: The Role of Technology in This Process
-- *October/23*
+- _October/23_
 - Presentation for the International Trade program at Fatec Praia Grande
 - Explained the Regime Change process, emphasizing the key role that T2S, through information technology, played in improving the client's operations.
