@@ -7,7 +7,7 @@
 ## Experience
 
 ### Megazap Business
-- Senior Systems Analyst \| 08/2025 - Present
+- Senior Software Engineer \| 08/2025 - Present
 
 ### Brasil Terminal Portuário
 - Senior Systems Analyst \| 04/2025 - 08/2025
