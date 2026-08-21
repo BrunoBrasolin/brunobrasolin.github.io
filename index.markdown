@@ -7,7 +7,7 @@
 ## Experiência
 
 ### Megazap Business
-- Analista de Sistemas Sênior \| 08/2025 - Atual
+- Engenheiro de Software Sênior \| 08/2025 - Atual
 
 ### Brasil Terminal Portuário
 - Analista de Sistemas Sênior \| 04/2025 - 08/2025
