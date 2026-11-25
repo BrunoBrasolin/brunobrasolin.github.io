@@ -32,13 +32,13 @@
   - **Technologies:** Java, React, PostgreSQL
   - **Tools:** Claude Code, IntelliJ IDEA, Visual Studio Code
 - **Security Review with Claude Code**
-  - _11/2026 - 11/2026_
+  - _11/2026_
   - Security review of 8 Megazap systems using Claude Code, carried out together with the team
   - Took part in identifying the vulnerabilities, classified by severity, and in fixing all critical, high, and medium ones
   - **Tools:** Claude Code
   - **Impact:** 400+ vulnerabilities identified \| 8 systems reviewed \| 100% of critical, high, and medium vulnerabilities fixed
 - **LLM Engineering for Software Development**
-  - _09/2026 - 09/2026_
+  - _09/2026_
   - Structured and standardized the use of LLMs across Megazap's projects, aligning AI-assisted development with each project's business rules, technical decisions, and needs
   - Defined how LLMs should be used in the projects and organized the responsibilities of each agent and model
   - Created and organized skills (reusable instructions for agents), development workflows, and subagents with specific responsibilities

@@ -32,13 +32,13 @@
   - **Tecnologias:** Java, React, PostgreSQL
   - **Ferramentas:** Claude Code, IntelliJ IDEA, Visual Studio Code
 - **Verificação de Segurança com Claude Code**
-  - _11/2026 - 11/2026_
+  - _11/2026_
   - Verificação de segurança de 8 sistemas da Megazap com apoio do Claude Code, realizada em conjunto com o time
   - Participei do levantamento das vulnerabilidades, classificadas por severidade, e da correção de todas as críticas, altas e médias
   - **Ferramentas:** Claude Code
-  - **Impacto:** +400 vulnerabilidades identificadas \| 8 sistemas analisados \| 100% das vulnerabilidades críticas, altas e médias corrigidas
+  - **Impacto:** 400+ vulnerabilidades identificadas \| 8 sistemas analisados \| 100% das vulnerabilidades críticas, altas e médias corrigidas
 - **Engenharia de LLMs para Desenvolvimento de Software**
-  - _09/2026 - 09/2026_
+  - _09/2026_
   - Estruturação e padronização do uso de LLMs nos projetos da Megazap, alinhando o desenvolvimento assistido por IA às regras de negócio, às decisões técnicas e às necessidades de cada projeto
   - Defini como as LLMs devem ser utilizadas nos projetos e organizei as responsabilidades de cada agente e modelo
   - Criei e organizei skills (instruções reutilizáveis para os agentes), workflows de desenvolvimento e subagents com responsabilidades específicas
@@ -47,7 +47,7 @@
   - **Ferramentas:** LLMs, Claude Code, Bash
   - **Estruturas de trabalho com agentes:** skills, workflows, subagents
   - **Stack dos projetos atendidos:** Java, React, PostgreSQL
-  - **Impacto:** +5 APIs criadas a partir do template \| 10 pessoas utilizando os workflows \| tempo de criação de uma nova API reduzido de 6 horas para 2 minutos
+  - **Impacto:** 5+ APIs criadas a partir do template \| 10 pessoas utilizando os workflows \| tempo de criação de uma nova API reduzido de 6 horas para 2 minutos
 - **Plataforma de Agendamento**
   - _11/2025 - 08/2026_
   - Sistema de agendamentos escalável, preparado para negócios de diferentes tipos e portes: de pequenos estabelecimentos, como barbearias, a grandes clínicas com múltiplas unidades e endereços
@@ -57,7 +57,7 @@
   - Estruturei o suporte a operações com múltiplas unidades e endereços, adaptável a diferentes necessidades operacionais e escalas de uso
   - **Tecnologias:** Java, React, PostgreSQL
   - **Ferramentas:** IntelliJ IDEA, Visual Studio Code
-  - **Impacto:** +50 empresas atendidas \| +600 agendamentos por mês
+  - **Impacto:** 50+ empresas atendidas \| 600+ agendamentos por mês
 
 ### Brasil Terminal Portuário
 - Analista de Sistemas Sênior _(Engenheiro de Software Sênior)_ \| 04/2025 - 08/2025
@@ -72,7 +72,7 @@
   - Defini padrões de design e de arquitetura front-end para o ecossistema Angular da empresa, simplificando a manutenção
   - Publiquei a documentação em Storybook, com exemplos e casos de uso de cada componente, para facilitar a adoção em novos projetos
   - **Tecnologias:** Angular, TypeScript, SCSS, Node.js, Azure Artifacts, Storybook
-  - **Impacto:** +80 componentes disponibilizados \| +15 desenvolvedores utilizando o pacote
+  - **Impacto:** 80+ componentes disponibilizados \| 15+ desenvolvedores utilizando o pacote
 - **Novo Site Institucional**
   - _11/2024 - 04/2025_
   - Novo site institucional da empresa, desenvolvido em parceria com fornecedores externos
@@ -82,7 +82,7 @@
   - Implementei monitoramento e análise de comportamento dos usuários com Microsoft Clarity
   - Conduzi revisões na fase de testes e prestei suporte pós-go-live para garantir a estabilidade e a qualidade da entrega
   - **Tecnologias:** Next.js (SSR), Azure, Microsoft Clarity
-  - **Impacto:** +6 fornecedores coordenados \| 22 páginas publicadas \| +30.000 visitantes por mês
+  - **Impacto:** 6+ fornecedores coordenados \| 22 páginas publicadas \| 30.000+ visitantes por mês
 - **Portal Único - Portal do Cliente**
   - _06/2024 - 12/2024_
   - Portal do cliente que integra um sistema legado em .NET MVC a um novo front-end Angular, com experiência unificada entre os sistemas
@@ -91,7 +91,7 @@
   - Conduzi mais de 10 workshops com clientes para levantamento de necessidades e validação de soluções
   - Executei testes de carga e de estresse para garantir o desempenho e a estabilidade da aplicação
   - **Tecnologias:** .NET MVC, Angular, JavaScript, JMeter
-  - **Impacto:** 10+ workshops com clientes \| +8.000 clientes com acesso ao portal \| +20.000 usuários ativos
+  - **Impacto:** 10+ workshops com clientes \| 8.000+ clientes com acesso ao portal \| 20.000+ usuários ativos
 - **Assistente SAP**
   - _2024_
   - Chatbot que converte perguntas em linguagem natural em SQL e executa consultas no SAP pelo celular
@@ -104,7 +104,7 @@
   - Descoberta com usuários: observação de fluxos reais em visitas técnicas, entrevistas, testes de usabilidade e análise de logs para priorizar intents e melhorias de UX e IA
   - CI/CD via GitOps e APIs expostas pelo Microsoft APIM
   - **Tecnologias:** Python, FastAPI, LangChain, LlamaIndex, RAG, ChatGPT (Microsoft), Elasticsearch, Qdrant, Angular, TypeScript, Confluence, Microsoft APIM, GitOps
-  - **Impacto:** 15 usuários \| +30 consultas realizadas por dia
+  - **Impacto:** 15 usuários \| 30+ consultas realizadas por dia
 
 ### T2S Tecnologia
 - Analista de Sistemas Pleno _(Engenheiro de Software Pleno)_ \| 07/2022 - 01/2024
@@ -127,7 +127,7 @@
   - Sustentação dos sistemas da BTP
   - Atendi chamados com foco na resolução definitiva dos incidentes, e não apenas em correções paliativas
   - **Tecnologias:** .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-  - **Impacto:** +30 chamados atendidos por mês \| +10 sistemas suportados \| 500 usuários suportados
+  - **Impacto:** 30+ chamados atendidos por mês \| 10+ sistemas suportados \| 500 usuários suportados
 - **Santos Brasil \| Armazém Alfandegado**
   - _04/2022 - 07/2022_
   - Sistema para a operação do armazém alfandegado da Santos Brasil
@@ -139,12 +139,12 @@
   - _10/2021 - 06/2022_
   - Integração dos sistemas da Santos Brasil com a [API Recintos](https://api-docs.portalunico.siscomex.gov.br/swagger/rcnt.html) do Portal Único Siscomex
   - **Tecnologias:** .NET, Oracle Database, SQL Server, Visual Studio
-  - **Impacto:** 23 endpoints integrados \| +300 operações processadas por minuto
+  - **Impacto:** 23 endpoints integrados \| 300+ operações processadas por minuto
 - **Santos Brasil \| Suporte de Sistemas**
   - _02/2022 - 03/2022_
   - Atendimento de chamados de primeiro nível (N1) dos sistemas da Santos Brasil
   - **Tecnologias:** Oracle Database
-  - **Impacto:** +80 chamados atendidos por mês \| +20 sistemas suportados \| +1.000 usuários suportados
+  - **Impacto:** 80+ chamados atendidos por mês \| 20+ sistemas suportados \| 1.000+ usuários suportados
 
 ### KBRTec
 - Estagiário de Desenvolvimento Front-End \| 04/2021 - 08/2021
