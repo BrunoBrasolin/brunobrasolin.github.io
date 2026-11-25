@@ -11,8 +11,8 @@
 - **Full Stack:** Java, .NET, Python, React, Angular, TypeScript, Next.js, Laravel
 - **Arquitetura e liderança técnica:** desenho de soluções, definição de regras de negócio com key users e liderança de times de 2 a 4 analistas
 - **Integrações:** Open Finance, emissores de cobrança e de notas fiscais, API Recintos (Portal Único Siscomex), sistemas legados .NET MVC, RabbitMQ
-- **IA aplicada:** Claude Code, LLMs, RAG, LangChain, LlamaIndex e padronização de skills, workflows e subagents para desenvolvimento assistido por IA
-- **Dados, nuvem e DevOps:** PostgreSQL, Oracle Database, SQL Server, Elasticsearch, Qdrant, Azure, Azure DevOps, Docker, Oracle Cloud Infrastructure, CI/CD com GitOps
+- **IA aplicada:** Claude Code, LLMs, RAG, LangChain, LlamaIndex, padronização de skills, workflows e subagents para desenvolvimento assistido por IA e verificação de segurança assistida por IA
+- **Dados, nuvem e DevOps:** PostgreSQL, Oracle Database, SQL Server, Elasticsearch, Qdrant, Azure, Azure DevOps, Docker, CI/CD com GitOps
 - Certificação Microsoft AZ-400 e MBA em Engenharia de Software pela FIAP
 
 ## Experiência
@@ -21,16 +21,8 @@
 - Engenheiro de Software Sênior \| 08/2025 - Atual
 
 #### Projetos
-- **Plataforma de Agendamento**
-  - Sistema de agendamentos escalável, preparado para negócios de diferentes tipos e portes: de pequenos estabelecimentos, como barbearias, a grandes clínicas com múltiplas unidades e endereços
-  - Responsável pelo desenvolvimento e pela implementação do sistema
-  - Implementei agendamento automático e aprovação automática de agendamentos
-  - Desenvolvi o gerenciamento de acessos e permissões
-  - Estruturei o suporte a operações com múltiplas unidades e endereços, adaptável a diferentes necessidades operacionais e escalas de uso
-  - **Tecnologias:** Java, React, PostgreSQL
-  - **Ferramentas:** IntelliJ IDEA, Visual Studio Code
-  - **Impacto:** [QUANTIDADE AQUI] empresas atendidas \| [QUANTIDADE AQUI] unidades e endereços \| [QUANTIDADE AQUI] profissionais cadastrados \| [QUANTIDADE AQUI] agendamentos por mês \| [QUANTIDADE AQUI] usuários com acesso
 - **Plataforma Comercial e Financeira**
+  - _09/2026 - Atual_
   - Sistema para gestão integrada de processos comerciais e financeiros, com módulo de vendas e integrações com Open Finance, emissores de cobrança e emissores de notas fiscais
   - Arquitetura de integrações plug-and-play, que permite operar com diferentes provedores de serviço para cada tipo de integração
   - Defini regras de negócio e os fluxos e comportamentos esperados da solução
@@ -39,8 +31,8 @@
   - Utilizei o Claude Code como apoio à implementação, direcionado pelas regras de negócio, fluxos e definições técnicas que estabeleci
   - **Tecnologias:** Java, React, PostgreSQL
   - **Ferramentas:** Claude Code, IntelliJ IDEA, Visual Studio Code
-  - **Impacto:** [QUANTIDADE AQUI] empresas usuárias \| [QUANTIDADE AQUI] vendas registradas \| [QUANTIDADE AQUI] cobranças emitidas \| [QUANTIDADE AQUI] notas fiscais emitidas \| [QUANTIDADE AQUI] provedores integrados
 - **Engenharia de LLMs para Desenvolvimento de Software**
+  - _09/2026 - 09/2026_
   - Estruturação e padronização do uso de LLMs nos projetos da Megazap, alinhando o desenvolvimento assistido por IA às regras de negócio, às decisões técnicas e às necessidades de cada projeto
   - Defini como as LLMs devem ser utilizadas nos projetos e organizei as responsabilidades de cada agente e modelo
   - Criei e organizei skills (instruções reutilizáveis para os agentes), workflows de desenvolvimento e subagents com responsabilidades específicas
@@ -49,7 +41,22 @@
   - **Ferramentas:** LLMs, Claude Code, Bash
   - **Estruturas de trabalho com agentes:** skills, workflows, subagents
   - **Stack dos projetos atendidos:** Java, React, PostgreSQL
-  - **Impacto:** [QUANTIDADE AQUI] projetos utilizando o padrão \| [QUANTIDADE AQUI] APIs criadas a partir do template \| [QUANTIDADE AQUI] pessoas utilizando os workflows \| tempo de criação de uma nova API reduzido de [QUANTIDADE AQUI] para [QUANTIDADE AQUI]
+  - **Impacto:** +5 APIs criadas a partir do template \| 10 pessoas utilizando os workflows \| tempo de criação de uma nova API reduzido de 6 horas para 2 minutos
+- **Verificação de Segurança com Claude Code**
+  - Verificação de segurança de 8 sistemas da Megazap com apoio do Claude Code, realizada em conjunto com o time
+  - Participei do levantamento das vulnerabilidades, classificadas por severidade, e da correção de todas as críticas, altas e médias
+  - **Ferramentas:** Claude Code
+  - **Impacto:** +400 vulnerabilidades identificadas \| 8 sistemas analisados \| 100% das vulnerabilidades críticas, altas e médias corrigidas
+- **Plataforma de Agendamento**
+  - _11/2025 - 08/2026_
+  - Sistema de agendamentos escalável, preparado para negócios de diferentes tipos e portes: de pequenos estabelecimentos, como barbearias, a grandes clínicas com múltiplas unidades e endereços
+  - Responsável pelo desenvolvimento e pela implementação do sistema
+  - Implementei agendamento automático e aprovação automática de agendamentos
+  - Desenvolvi o gerenciamento de acessos e permissões
+  - Estruturei o suporte a operações com múltiplas unidades e endereços, adaptável a diferentes necessidades operacionais e escalas de uso
+  - **Tecnologias:** Java, React, PostgreSQL
+  - **Ferramentas:** IntelliJ IDEA, Visual Studio Code
+  - **Impacto:** +50 empresas atendidas \| +600 agendamentos por mês
 
 ### Brasil Terminal Portuário
 - Analista de Sistemas Sênior _(Engenheiro de Software Sênior)_ \| 04/2025 - 08/2025
@@ -64,7 +71,7 @@
   - Defini padrões de design e de arquitetura front-end para o ecossistema Angular da empresa, simplificando a manutenção
   - Publiquei a documentação em Storybook, com exemplos e casos de uso de cada componente, para facilitar a adoção em novos projetos
   - **Tecnologias:** Angular, TypeScript, SCSS, Node.js, Azure Artifacts, Storybook
-  - **Impacto:** [QUANTIDADE AQUI] aplicações consumidoras \| [QUANTIDADE AQUI] componentes disponibilizados \| [QUANTIDADE AQUI] desenvolvedores utilizando o pacote
+  - **Impacto:** +80 componentes disponibilizados \| +15 desenvolvedores utilizando o pacote
 - **Novo Site Institucional**
   - _11/2024 - 04/2025_
   - Novo site institucional da empresa, desenvolvido em parceria com fornecedores externos
@@ -74,7 +81,7 @@
   - Implementei monitoramento e análise de comportamento dos usuários com Microsoft Clarity
   - Conduzi revisões na fase de testes e prestei suporte pós-go-live para garantir a estabilidade e a qualidade da entrega
   - **Tecnologias:** Next.js (SSR), Azure, Microsoft Clarity
-  - **Impacto:** [QUANTIDADE AQUI] fornecedores coordenados \| [QUANTIDADE AQUI] páginas publicadas \| [QUANTIDADE AQUI] visitantes por mês
+  - **Impacto:** +6 fornecedores coordenados \| 22 páginas publicadas \| +30.000 visitantes por mês
 - **Portal Único - Portal do Cliente**
   - _06/2024 - 12/2024_
   - Portal do cliente que integra um sistema legado em .NET MVC a um novo front-end Angular, com experiência unificada entre os sistemas
@@ -83,9 +90,9 @@
   - Conduzi mais de 10 workshops com clientes para levantamento de necessidades e validação de soluções
   - Executei testes de carga e de estresse para garantir o desempenho e a estabilidade da aplicação
   - **Tecnologias:** .NET MVC, Angular, JavaScript, JMeter
-  - **Impacto:** 10+ workshops com clientes \| [QUANTIDADE AQUI] clientes com acesso ao portal \| [QUANTIDADE AQUI] usuários ativos \| [QUANTIDADE AQUI] acessos por mês
+  - **Impacto:** 10+ workshops com clientes \| +8.000 clientes com acesso ao portal \| +20.000 usuários ativos
 - **Assistente SAP**
-  - _xx/2024 - xx/2024_
+  - _2024_
   - Chatbot que converte perguntas em linguagem natural em SQL e executa consultas no SAP pelo celular
   - Arquitetura NLP/IR em Python com FastAPI, LangChain e LlamaIndex
   - RAG (Retrieval-Augmented Generation) para combinar busca semântica e geração de respostas precisas
@@ -96,7 +103,7 @@
   - Descoberta com usuários: observação de fluxos reais em visitas técnicas, entrevistas, testes de usabilidade e análise de logs para priorizar intents e melhorias de UX e IA
   - CI/CD via GitOps e APIs expostas pelo Microsoft APIM
   - **Tecnologias:** Python, FastAPI, LangChain, LlamaIndex, RAG, ChatGPT (Microsoft), Elasticsearch, Qdrant, Angular, TypeScript, Confluence, Microsoft APIM, GitOps
-  - **Impacto:** [QUANTIDADE AQUI] usuários \| [QUANTIDADE AQUI] consultas realizadas \| [QUANTIDADE AQUI] documentos indexados \| [QUANTIDADE AQUI] áreas atendidas
+  - **Impacto:** 15 usuários \| +30 consultas realizadas por dia
 
 ### T2S Tecnologia
 - Analista de Sistemas Pleno _(Engenheiro de Software Pleno)_ \| 07/2022 - 01/2024
@@ -113,36 +120,35 @@
   - Desenvolvi os projetos com .NET e Angular
   - Liderei um time de 2 a 4 analistas
   - **Tecnologias:** .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-  - **Impacto:** [QUANTIDADE AQUI] projetos entregues \| [QUANTIDADE AQUI] key users envolvidos \| [QUANTIDADE AQUI] áreas atendidas
+  - **Impacto:** 26 projetos entregues \| 8 key users envolvidos \| 5 áreas atendidas
 - **BTP \| Suporte de Sistemas**
   - _07/2022 - 09/2022_
   - Sustentação dos sistemas da BTP
   - Atendi chamados com foco na resolução definitiva dos incidentes, e não apenas em correções paliativas
   - **Tecnologias:** .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-  - **Impacto:** [QUANTIDADE AQUI] chamados atendidos \| [QUANTIDADE AQUI] sistemas suportados \| [QUANTIDADE AQUI] usuários suportados
+  - **Impacto:** +30 chamados atendidos por mês \| +10 sistemas suportados \| 500 usuários suportados
 - **Santos Brasil \| Armazém Alfandegado**
   - _04/2022 - 07/2022_
   - Sistema para a operação do armazém alfandegado da Santos Brasil
   - Liderei um time de 3 a 4 analistas no desenvolvimento do sistema
   - Alinhei as regras do sistema com o key user
   - **Tecnologias:** .NET, Oracle Database, SQL Server, Visual Studio
-  - **Impacto:** [QUANTIDADE AQUI] usuários \| [QUANTIDADE AQUI] processos do armazém atendidos \| [QUANTIDADE AQUI] funcionalidades entregues
+  - **Impacto:** 7 processos do armazém atendidos
 - **Santos Brasil \| Integração ao Módulo Recintos**
   - _10/2021 - 06/2022_
   - Integração dos sistemas da Santos Brasil com a [API Recintos](https://api-docs.portalunico.siscomex.gov.br/swagger/rcnt.html) do Portal Único Siscomex
   - **Tecnologias:** .NET, Oracle Database, SQL Server, Visual Studio
-  - **Impacto:** [QUANTIDADE AQUI] endpoints integrados \| [QUANTIDADE AQUI] mensagens enviadas \| [QUANTIDADE AQUI] operações processadas
+  - **Impacto:** 23 endpoints integrados \| +300 operações processadas por minuto
 - **Santos Brasil \| Suporte de Sistemas**
   - _02/2022 - 03/2022_
   - Atendimento de chamados de primeiro nível (N1) dos sistemas da Santos Brasil
   - **Tecnologias:** Oracle Database
-  - **Impacto:** [QUANTIDADE AQUI] chamados atendidos \| [QUANTIDADE AQUI] usuários suportados \| [QUANTIDADE AQUI] sistemas suportados
+  - **Impacto:** +80 chamados atendidos por mês \| +20 sistemas suportados \| +1.000 usuários suportados
 
 ### KBRTec
 - Estagiário de Desenvolvimento Front-End \| 04/2021 - 08/2021
   - Manutenção de sites em WordPress
   - **Tecnologias:** WordPress
-  - **Impacto:** [QUANTIDADE AQUI] sites mantidos \| [QUANTIDADE AQUI] demandas entregues
 
 ### Ótima Ideia
 - Desenvolvedor Full Stack \| 07/2020 - 03/2021
@@ -150,20 +156,11 @@
   - Desenvolvimento de sistemas web em Laravel
   - Acompanhamento de estagiários
   - **Tecnologias:** WordPress, Laravel
-  - **Impacto:** [QUANTIDADE AQUI] sites entregues \| [QUANTIDADE AQUI] sistemas desenvolvidos \| [QUANTIDADE AQUI] estagiários acompanhados
+  - **Impacto:** 12 sites entregues \| 2 sistemas desenvolvidos \| 5 estagiários acompanhados
 - Estagiário de Desenvolvimento Front-End \| 04/2020 - 06/2020
   - Desenvolvimento de sites em WordPress
   - **Tecnologias:** WordPress
-  - **Impacto:** [QUANTIDADE AQUI] sites desenvolvidos
-
-### Projetos Pessoais
-- **Gamidas**
-  - Ambiente próprio para desenvolvimento e hospedagem de projetos pessoais
-  - Arquitetura com overengineering intencional, usada para praticar mensageria, micro-frontends, containers e qualidade de código
-  - Hospedagem na Oracle Cloud Infrastructure com nginx, Docker e domínio próprio
-  - Experimentos com LLMs usando Python, Flask, LangChain e LangSmith
-  - **Tecnologias:** .NET, Angular, Module Federation, Python, Flask, LangChain, LangSmith, RabbitMQ, Docker, Docker Hub, nginx, Oracle Cloud Infrastructure, GitHub, SonarCloud, registro.br
-  - **Impacto:** [QUANTIDADE AQUI] projetos publicados \| [QUANTIDADE AQUI] serviços em execução \| [QUANTIDADE AQUI] usuários
+  - **Impacto:** 3 sites desenvolvidos
 
 ## Formação
 
@@ -192,4 +189,4 @@
 
 ## Idiomas
 - Português: nativo
-- Inglês: [NÍVEL AQUI]
+- Inglês: B2

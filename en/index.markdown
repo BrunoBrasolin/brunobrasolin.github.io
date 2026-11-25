@@ -11,8 +11,8 @@
 - **Full-Stack:** Java, .NET, Python, React, Angular, TypeScript, Next.js, Laravel
 - **Architecture and technical leadership:** solution design, business rule definition with key users, and leadership of teams of 2 to 4 analysts
 - **Integrations:** Open Finance, payment/billing providers, electronic invoice (nota fiscal) providers, Recintos API (Brazil's Siscomex Single Window), legacy .NET MVC systems, RabbitMQ
-- **Applied AI:** Claude Code, LLMs, RAG, LangChain, LlamaIndex, and standardized skills, workflows, and subagents for AI-assisted development
-- **Data, cloud, and DevOps:** PostgreSQL, Oracle Database, SQL Server, Elasticsearch, Qdrant, Azure, Azure DevOps, Docker, Oracle Cloud Infrastructure, CI/CD with GitOps
+- **Applied AI:** Claude Code, LLMs, RAG, LangChain, LlamaIndex, standardized skills, workflows, and subagents for AI-assisted development, and AI-assisted security reviews
+- **Data, cloud, and DevOps:** PostgreSQL, Oracle Database, SQL Server, Elasticsearch, Qdrant, Azure, Azure DevOps, Docker, CI/CD with GitOps
 - Microsoft AZ-400 certification and MBA in Software Engineering from FIAP
 
 ## Experience
@@ -21,16 +21,8 @@
 - Senior Software Engineer \| 08/2025 - Present
 
 #### Projects
-- **Scheduling Platform**
-  - Scalable scheduling system built for businesses of different types and sizes: from small shops, such as barbershops, to large clinics with multiple units and addresses
-  - Responsible for developing and implementing the system
-  - Implemented automatic scheduling and automatic appointment approval
-  - Built access and permission management
-  - Structured support for multi-unit, multi-address operations, adaptable to different operational needs and usage scales
-  - **Technologies:** Java, React, PostgreSQL
-  - **Tools:** IntelliJ IDEA, Visual Studio Code
-  - **Impact:** [QUANTIDADE AQUI] businesses served \| [QUANTIDADE AQUI] units and addresses \| [QUANTIDADE AQUI] registered professionals \| [QUANTIDADE AQUI] appointments per month \| [QUANTIDADE AQUI] users with access
 - **Sales and Financial Platform**
+  - _09/2026 - Present_
   - System for integrated management of sales and financial processes, with a sales module and integrations with Open Finance, payment/billing providers, and electronic invoice providers
   - Plug-and-play integration architecture that supports different service providers for each type of integration
   - Defined business rules and the expected flows and behavior of the solution
@@ -39,8 +31,8 @@
   - Used Claude Code to support implementation, directed by the business rules, flows, and technical definitions I established
   - **Technologies:** Java, React, PostgreSQL
   - **Tools:** Claude Code, IntelliJ IDEA, Visual Studio Code
-  - **Impact:** [QUANTIDADE AQUI] client companies \| [QUANTIDADE AQUI] sales recorded \| [QUANTIDADE AQUI] billing charges issued \| [QUANTIDADE AQUI] electronic invoices issued \| [QUANTIDADE AQUI] providers integrated
 - **LLM Engineering for Software Development**
+  - _09/2026 - 09/2026_
   - Structured and standardized the use of LLMs across Megazap's projects, aligning AI-assisted development with each project's business rules, technical decisions, and needs
   - Defined how LLMs should be used in the projects and organized the responsibilities of each agent and model
   - Created and organized skills (reusable instructions for agents), development workflows, and subagents with specific responsibilities
@@ -49,7 +41,22 @@
   - **Tools:** LLMs, Claude Code, Bash
   - **Agent work structures:** skills, workflows, subagents
   - **Stack of the supported projects:** Java, React, PostgreSQL
-  - **Impact:** [QUANTIDADE AQUI] projects using the standard \| [QUANTIDADE AQUI] APIs created from the template \| [QUANTIDADE AQUI] people using the workflows \| time to set up a new API reduced from [QUANTIDADE AQUI] to [QUANTIDADE AQUI]
+  - **Impact:** 5+ APIs created from the template \| 10 people using the workflows \| time to set up a new API reduced from 6 hours to 2 minutes
+- **Security Review with Claude Code**
+  - Security review of 8 Megazap systems using Claude Code, carried out together with the team
+  - Took part in identifying the vulnerabilities, classified by severity, and in fixing all critical, high, and medium ones
+  - **Tools:** Claude Code
+  - **Impact:** 400+ vulnerabilities identified \| 8 systems reviewed \| 100% of critical, high, and medium vulnerabilities fixed
+- **Scheduling Platform**
+  - _11/2025 - 08/2026_
+  - Scalable scheduling system built for businesses of different types and sizes: from small shops, such as barbershops, to large clinics with multiple units and addresses
+  - Responsible for developing and implementing the system
+  - Implemented automatic scheduling and automatic appointment approval
+  - Built access and permission management
+  - Structured support for multi-unit, multi-address operations, adaptable to different operational needs and usage scales
+  - **Technologies:** Java, React, PostgreSQL
+  - **Tools:** IntelliJ IDEA, Visual Studio Code
+  - **Impact:** 50+ businesses served \| 600+ appointments per month
 
 ### Brasil Terminal Portuário
 - Senior Systems Analyst _(Senior Software Engineer)_ \| 04/2025 - 08/2025
@@ -64,7 +71,7 @@
   - Defined design and front-end architecture standards for the company's Angular ecosystem, simplifying maintenance
   - Published Storybook documentation with examples and use cases for each component to ease adoption in new projects
   - **Technologies:** Angular, TypeScript, SCSS, Node.js, Azure Artifacts, Storybook
-  - **Impact:** [QUANTIDADE AQUI] consuming applications \| [QUANTIDADE AQUI] components available \| [QUANTIDADE AQUI] developers using the package
+  - **Impact:** 80+ components available \| 15+ developers using the package
 - **New Corporate Website**
   - _11/2024 - 04/2025_
   - The company's new corporate website, built in partnership with external vendors
@@ -74,7 +81,7 @@
   - Implemented user behavior monitoring and analytics with Microsoft Clarity
   - Led reviews during the testing phase and provided post-go-live support to ensure delivery stability and quality
   - **Technologies:** Next.js (SSR), Azure, Microsoft Clarity
-  - **Impact:** [QUANTIDADE AQUI] vendors coordinated \| [QUANTIDADE AQUI] pages published \| [QUANTIDADE AQUI] monthly visitors
+  - **Impact:** 6+ vendors coordinated \| 22 pages published \| 30,000+ monthly visitors
 - **Single Portal - Customer Portal**
   - _06/2024 - 12/2024_
   - Customer portal that integrates a legacy .NET MVC system into a new Angular front end, with a unified experience across systems
@@ -83,9 +90,9 @@
   - Led more than 10 workshops with customers to gather requirements and validate solutions
   - Ran load and stress tests to ensure application performance and stability
   - **Technologies:** .NET MVC, Angular, JavaScript, JMeter
-  - **Impact:** 10+ customer workshops \| [QUANTIDADE AQUI] customers with portal access \| [QUANTIDADE AQUI] active users \| [QUANTIDADE AQUI] monthly visits
+  - **Impact:** 10+ customer workshops \| 8,000+ customers with portal access \| 20,000+ active users
 - **SAP Assistant**
-  - _xx/2024 - xx/2024_
+  - _2024_
   - Chatbot that converts natural language questions into SQL and runs SAP queries from mobile devices
   - NLP/IR architecture in Python with FastAPI, LangChain, and LlamaIndex
   - RAG (Retrieval-Augmented Generation) to combine semantic search with accurate response generation
@@ -96,7 +103,7 @@
   - User discovery: observed real workflows during site visits, ran interviews, usability tests, and log analysis to prioritize intents and UX/AI improvements
   - CI/CD via GitOps, with APIs exposed through Microsoft APIM
   - **Technologies:** Python, FastAPI, LangChain, LlamaIndex, RAG, ChatGPT (Microsoft), Elasticsearch, Qdrant, Angular, TypeScript, Confluence, Microsoft APIM, GitOps
-  - **Impact:** [QUANTIDADE AQUI] users \| [QUANTIDADE AQUI] queries run \| [QUANTIDADE AQUI] documents indexed \| [QUANTIDADE AQUI] departments served
+  - **Impact:** 15 users \| 30+ queries per day
 
 ### T2S Tecnologia
 - Mid-Level Systems Analyst _(Mid-Level Software Engineer)_ \| 07/2022 - 01/2024
@@ -113,36 +120,35 @@
   - Developed the projects with .NET and Angular
   - Led a team of 2 to 4 analysts
   - **Technologies:** .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-  - **Impact:** [QUANTIDADE AQUI] projects delivered \| [QUANTIDADE AQUI] key users involved \| [QUANTIDADE AQUI] departments served
+  - **Impact:** 26 projects delivered \| 8 key users involved \| 5 departments served
 - **BTP \| Systems Support**
   - _07/2022 - 09/2022_
   - Maintenance and support of BTP's systems
   - Handled support tickets, focusing on permanent incident resolution rather than temporary workarounds
   - **Technologies:** .NET, Angular, Azure DevOps, Docker, Elastic Stack, IIS, Oracle Database, RabbitMQ, Visual Studio
-  - **Impact:** [QUANTIDADE AQUI] tickets resolved \| [QUANTIDADE AQUI] systems supported \| [QUANTIDADE AQUI] users supported
+  - **Impact:** 30+ tickets resolved per month \| 10+ systems supported \| 500 users supported
 - **Santos Brasil \| Bonded Warehouse**
   - _04/2022 - 07/2022_
   - System for Santos Brasil's bonded warehouse operations
   - Led a team of 3 to 4 analysts in developing the system
   - Aligned system rules with the key user
   - **Technologies:** .NET, Oracle Database, SQL Server, Visual Studio
-  - **Impact:** [QUANTIDADE AQUI] users \| [QUANTIDADE AQUI] warehouse processes covered \| [QUANTIDADE AQUI] features delivered
+  - **Impact:** 7 warehouse processes covered
 - **Santos Brasil \| Recintos Module Integration**
   - _10/2021 - 06/2022_
   - Integration of Santos Brasil's systems with the [Recintos API](https://api-docs.portalunico.siscomex.gov.br/swagger/rcnt.html) (customs facilities) of Brazil's Siscomex Single Window (Portal Único)
   - **Technologies:** .NET, Oracle Database, SQL Server, Visual Studio
-  - **Impact:** [QUANTIDADE AQUI] endpoints integrated \| [QUANTIDADE AQUI] messages sent \| [QUANTIDADE AQUI] operations processed
+  - **Impact:** 23 endpoints integrated \| 300+ operations processed per minute
 - **Santos Brasil \| Systems Support**
   - _02/2022 - 03/2022_
   - First-level (L1) support for Santos Brasil's systems
   - **Technologies:** Oracle Database
-  - **Impact:** [QUANTIDADE AQUI] tickets resolved \| [QUANTIDADE AQUI] users supported \| [QUANTIDADE AQUI] systems supported
+  - **Impact:** 80+ tickets resolved per month \| 20+ systems supported \| 1,000+ users supported
 
 ### KBRTec
 - Front-End Developer Intern \| 04/2021 - 08/2021
   - Maintained WordPress websites
   - **Technologies:** WordPress
-  - **Impact:** [QUANTIDADE AQUI] websites maintained \| [QUANTIDADE AQUI] requests delivered
 
 ### Ótima Ideia
 - Full-Stack Developer \| 07/2020 - 03/2021
@@ -150,20 +156,11 @@
   - Developed web systems with Laravel
   - Mentored interns
   - **Technologies:** WordPress, Laravel
-  - **Impact:** [QUANTIDADE AQUI] websites delivered \| [QUANTIDADE AQUI] systems developed \| [QUANTIDADE AQUI] interns mentored
+  - **Impact:** 12 websites delivered \| 2 systems developed \| 5 interns mentored
 - Front-End Developer Intern \| 04/2020 - 06/2020
   - Developed WordPress websites
   - **Technologies:** WordPress
-  - **Impact:** [QUANTIDADE AQUI] websites developed
-
-### Personal Projects
-- **Gamidas**
-  - Self-managed environment for developing and hosting personal projects
-  - Intentionally over-engineered architecture used to practice messaging, micro-frontends, containers, and code quality
-  - Hosted on Oracle Cloud Infrastructure with nginx, Docker, and a custom domain
-  - LLM experiments using Python, Flask, LangChain, and LangSmith
-  - **Technologies:** .NET, Angular, Module Federation, Python, Flask, LangChain, LangSmith, RabbitMQ, Docker, Docker Hub, nginx, Oracle Cloud Infrastructure, GitHub, SonarCloud, registro.br
-  - **Impact:** [QUANTIDADE AQUI] projects published \| [QUANTIDADE AQUI] services running \| [QUANTIDADE AQUI] users
+  - **Impact:** 3 websites developed
 
 ## Education
 
@@ -192,4 +189,4 @@
 
 ## Languages
 - Portuguese: native
-- English: [NÍVEL AQUI]
+- English: B2
