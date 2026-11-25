@@ -31,6 +31,12 @@
   - Utilizei o Claude Code como apoio à implementação, direcionado pelas regras de negócio, fluxos e definições técnicas que estabeleci
   - **Tecnologias:** Java, React, PostgreSQL
   - **Ferramentas:** Claude Code, IntelliJ IDEA, Visual Studio Code
+- **Verificação de Segurança com Claude Code**
+  - _11/2026 - 11/2026_
+  - Verificação de segurança de 8 sistemas da Megazap com apoio do Claude Code, realizada em conjunto com o time
+  - Participei do levantamento das vulnerabilidades, classificadas por severidade, e da correção de todas as críticas, altas e médias
+  - **Ferramentas:** Claude Code
+  - **Impacto:** +400 vulnerabilidades identificadas \| 8 sistemas analisados \| 100% das vulnerabilidades críticas, altas e médias corrigidas
 - **Engenharia de LLMs para Desenvolvimento de Software**
   - _09/2026 - 09/2026_
   - Estruturação e padronização do uso de LLMs nos projetos da Megazap, alinhando o desenvolvimento assistido por IA às regras de negócio, às decisões técnicas e às necessidades de cada projeto
@@ -42,11 +48,6 @@
   - **Estruturas de trabalho com agentes:** skills, workflows, subagents
   - **Stack dos projetos atendidos:** Java, React, PostgreSQL
   - **Impacto:** +5 APIs criadas a partir do template \| 10 pessoas utilizando os workflows \| tempo de criação de uma nova API reduzido de 6 horas para 2 minutos
-- **Verificação de Segurança com Claude Code**
-  - Verificação de segurança de 8 sistemas da Megazap com apoio do Claude Code, realizada em conjunto com o time
-  - Participei do levantamento das vulnerabilidades, classificadas por severidade, e da correção de todas as críticas, altas e médias
-  - **Ferramentas:** Claude Code
-  - **Impacto:** +400 vulnerabilidades identificadas \| 8 sistemas analisados \| 100% das vulnerabilidades críticas, altas e médias corrigidas
 - **Plataforma de Agendamento**
   - _11/2025 - 08/2026_
   - Sistema de agendamentos escalável, preparado para negócios de diferentes tipos e portes: de pequenos estabelecimentos, como barbearias, a grandes clínicas com múltiplas unidades e endereços

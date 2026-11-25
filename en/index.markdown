@@ -31,6 +31,12 @@
   - Used Claude Code to support implementation, directed by the business rules, flows, and technical definitions I established
   - **Technologies:** Java, React, PostgreSQL
   - **Tools:** Claude Code, IntelliJ IDEA, Visual Studio Code
+- **Security Review with Claude Code**
+  - _11/2026 - 11/2026_
+  - Security review of 8 Megazap systems using Claude Code, carried out together with the team
+  - Took part in identifying the vulnerabilities, classified by severity, and in fixing all critical, high, and medium ones
+  - **Tools:** Claude Code
+  - **Impact:** 400+ vulnerabilities identified \| 8 systems reviewed \| 100% of critical, high, and medium vulnerabilities fixed
 - **LLM Engineering for Software Development**
   - _09/2026 - 09/2026_
   - Structured and standardized the use of LLMs across Megazap's projects, aligning AI-assisted development with each project's business rules, technical decisions, and needs
@@ -42,11 +48,6 @@
   - **Agent work structures:** skills, workflows, subagents
   - **Stack of the supported projects:** Java, React, PostgreSQL
   - **Impact:** 5+ APIs created from the template \| 10 people using the workflows \| time to set up a new API reduced from 6 hours to 2 minutes
-- **Security Review with Claude Code**
-  - Security review of 8 Megazap systems using Claude Code, carried out together with the team
-  - Took part in identifying the vulnerabilities, classified by severity, and in fixing all critical, high, and medium ones
-  - **Tools:** Claude Code
-  - **Impact:** 400+ vulnerabilities identified \| 8 systems reviewed \| 100% of critical, high, and medium vulnerabilities fixed
 - **Scheduling Platform**
   - _11/2025 - 08/2026_
   - Scalable scheduling system built for businesses of different types and sizes: from small shops, such as barbershops, to large clinics with multiple units and addresses
