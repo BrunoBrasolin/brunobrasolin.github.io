@@ -103,7 +103,7 @@
   - Angular and TypeScript front end with assistant, history, feedback, and result visualization
   - User discovery: observed real workflows during site visits, ran interviews, usability tests, and log analysis to prioritize intents and UX/AI improvements
   - CI/CD via GitOps, with APIs exposed through Microsoft APIM
-  - **Technologies:** Python, FastAPI, LangChain, LlamaIndex, RAG, ChatGPT (Microsoft), Elasticsearch, Qdrant, Angular, TypeScript, Confluence, Microsoft APIM, GitOps
+  - **Technologies:** Python, FastAPI, LangChain, LlamaIndex, RAG, Azure OpenAI, Elasticsearch, Qdrant, Angular, TypeScript, Confluence, Microsoft APIM, GitOps
   - **Impact:** 15 users \| 30+ queries per day
 
 ### T2S Tecnologia

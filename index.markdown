@@ -103,7 +103,7 @@
   - Front-end em Angular e TypeScript com assistente, histórico, feedback e visualização de resultados
   - Descoberta com usuários: observação de fluxos reais em visitas técnicas, entrevistas, testes de usabilidade e análise de logs para priorizar intents e melhorias de UX e IA
   - CI/CD via GitOps e APIs expostas pelo Microsoft APIM
-  - **Tecnologias:** Python, FastAPI, LangChain, LlamaIndex, RAG, ChatGPT (Microsoft), Elasticsearch, Qdrant, Angular, TypeScript, Confluence, Microsoft APIM, GitOps
+  - **Tecnologias:** Python, FastAPI, LangChain, LlamaIndex, RAG, Azure OpenAI, Elasticsearch, Qdrant, Angular, TypeScript, Confluence, Microsoft APIM, GitOps
   - **Impacto:** 15 usuários \| 30+ consultas realizadas por dia
 
 ### T2S Tecnologia
