@@ -139,7 +139,7 @@
   - _10/2021 - 06/2022_
   - Integration of Santos Brasil's systems with the [Recintos API](https://api-docs.portalunico.siscomex.gov.br/swagger/rcnt.html) (customs facilities) of Brazil's Siscomex Single Window (Portal Único)
   - **Technologies:** .NET, Oracle Database, SQL Server, Visual Studio
-  - **Impact:** 23 endpoints integrated \| 300+ operations processed per minute
+  - **Impact:** 23 endpoints integrated \| 300+ operations processed per hour
 - **Santos Brasil \| Systems Support**
   - _02/2022 - 03/2022_
   - First-level (L1) support for Santos Brasil's systems
