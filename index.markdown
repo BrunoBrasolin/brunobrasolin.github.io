@@ -139,7 +139,7 @@
   - _10/2021 - 06/2022_
   - Integração dos sistemas da Santos Brasil com a [API Recintos](https://api-docs.portalunico.siscomex.gov.br/swagger/rcnt.html) do Portal Único Siscomex
   - **Tecnologias:** .NET, Oracle Database, SQL Server, Visual Studio
-  - **Impacto:** 23 endpoints integrados \| 300+ operações processadas por minuto
+  - **Impacto:** 23 endpoints integrados \| 300+ operações processadas por hora
 - **Santos Brasil \| Suporte de Sistemas**
   - _02/2022 - 03/2022_
   - Atendimento de chamados de primeiro nível (N1) dos sistemas da Santos Brasil
